@@ -1,0 +1,182 @@
+{
+  "name": "Magic Origins Clash Pack",
+  "code": "CP3",
+  "magicCardsInfoCode": "mbp",
+  "releaseDate": "2015-07-17",
+  "border": "black",
+  "type": "starter",
+  "cards": [
+    {
+      "artist": "Magali Villeneuve",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "728c0ebc413301b8710df679db311c8c4c768893",
+      "imageName": "honored hierarch",
+      "layout": "normal",
+      "manaCost": "{G}",
+      "mciNumber": "129",
+      "name": "Honored Hierarch",
+      "number": "1",
+      "power": "1",
+      "rarity": "Special",
+      "subtypes": [
+        "Human",
+        "Druid"
+      ],
+      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and \"{T}: Add one mana of any color to your mana pool.\"",
+      "toughness": "1",
+      "type": "Creature — Human Druid",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Magali Villeneuve",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"I don't know where my destiny lies, but I know it isn't here.\"",
+      "id": "19ea634dbd7f6aaa8fbca48e2b314a23fb62cf7f",
+      "imageName": "seeker of the way",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "130",
+      "name": "Seeker of the Way",
+      "number": "2",
+      "power": "2",
+      "rarity": "Special",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Victor Adame Minguez",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Every choice alters the path of fate.\"\n—Sarkhan Vol",
+      "id": "483477195742678878820659c980402602150848",
+      "imageName": "valorous stance",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "131",
+      "name": "Valorous Stance",
+      "number": "3",
+      "rarity": "Special",
+      "text": "Choose one —\n• Target creature gains indestructible until end of turn.\n• Destroy target creature with toughness 4 or greater.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"The bane of countless shattered weapons, each a failure to slay her.\"\n—Daghatar the Adamant",
+      "id": "24fd5c20d95900d06c4eee69ed08e8a7d5640a9d",
+      "imageName": "dromoka, the eternal",
+      "layout": "normal",
+      "manaCost": "{3}{G}{W}",
+      "mciNumber": "132",
+      "name": "Dromoka, the Eternal",
+      "number": "4",
+      "power": "5",
+      "rarity": "Special",
+      "subtypes": [
+        "Dragon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+      "toughness": "5",
+      "type": "Legendary Creature — Dragon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "B",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "flavor": "The mere approach of an Abzan war beast is enough to send enemies fleeing in panic.",
+      "id": "61e79d7ad6a16024fb0d320eab2616c30f6e1d3e",
+      "imageName": "siege rhino",
+      "layout": "normal",
+      "manaCost": "{1}{W}{B}{G}",
+      "mciNumber": "133",
+      "name": "Siege Rhino",
+      "number": "5",
+      "power": "4",
+      "rarity": "Special",
+      "subtypes": [
+        "Rhino"
+      ],
+      "text": "Trample\nWhen Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.",
+      "toughness": "5",
+      "type": "Creature — Rhino",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "W",
+        "B",
+        "G"
+      ],
+      "flavor": "That which endures, survives.",
+      "id": "8d57775eaaf285e601916557eaa2d1a66ce4d623",
+      "imageName": "sandsteppe citadel",
+      "layout": "normal",
+      "mciNumber": "134",
+      "name": "Sandsteppe Citadel",
+      "number": "6",
+      "rarity": "Special",
+      "text": "Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    }
+  ]
+}

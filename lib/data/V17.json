@@ -1,0 +1,1056 @@
+{
+  "name": "From the Vault: Transform",
+  "code": "V17",
+  "magicCardsInfoCode": "v17",
+  "releaseDate": "2015-11-24",
+  "border": "black",
+  "type": "from the vault",
+  "mkm_name": "From the Vault: Transform",
+  "cards": [
+    {
+      "artist": "James Ryman",
+      "cmc": 5,
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "587dd577950e5ddf3d5770a52028ec7b162595f0",
+      "imageName": "archangel avacyn",
+      "layout": "double-faced",
+      "manaCost": "{3}{W}{W}",
+      "mciNumber": "1a",
+      "multiverseid": 439314,
+      "name": "Archangel Avacyn",
+      "names": [
+        "Archangel Avacyn",
+        "Avacyn, the Purifier"
+      ],
+      "number": "1a",
+      "power": "4",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Angel"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flash\nFlying, vigilance\nWhen Archangel Avacyn enters the battlefield, creatures you control gain indestructible until end of turn.\nWhen a non-Angel creature you control dies, transform Archangel Avacyn at the beginning of the next upkeep.",
+      "toughness": "4",
+      "type": "Legendary Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "James Ryman",
+      "cmc": 5,
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Wings that once bore hope are now stained with blood. She is our guardian no longer.\"\n—Grete, cathar apostate",
+      "id": "f35ee8e69677b8c2c3a5967d2663c055f7a2b25c",
+      "imageName": "avacyn, the purifier",
+      "layout": "double-faced",
+      "mciNumber": "1b",
+      "multiverseid": 439315,
+      "name": "Avacyn, the Purifier",
+      "names": [
+        "Archangel Avacyn",
+        "Avacyn, the Purifier"
+      ],
+      "number": "1b",
+      "power": "6",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Angel"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhen this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.",
+      "toughness": "5",
+      "type": "Legendary Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Arguel's vision led him into the jungles of Ixalan . . .",
+      "id": "57bc0cf432c656b3a9681c75ec3777bfe990b1b6",
+      "imageName": "arguel's blood fast",
+      "layout": "double-faced",
+      "manaCost": "{1}{B}",
+      "mciNumber": "2a",
+      "multiverseid": 439316,
+      "name": "Arguel's Blood Fast",
+      "names": [
+        "Arguel's Blood Fast",
+        "Temple of Aclazotz"
+      ],
+      "number": "2a",
+      "rarity": "Mythic Rare",
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "{1}{B}, Pay 2 life: Draw a card.\nAt the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",
+      "type": "Legendary Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "flavor": ". . . to the lost temple of a bat-god of night, eternal enemy to the Threefold Sun.",
+      "id": "a66067bc04b2c6ce5fa27c52988915b59aaed374",
+      "imageName": "temple of aclazotz",
+      "layout": "double-faced",
+      "mciNumber": "2b",
+      "multiverseid": 439317,
+      "name": "Temple of Aclazotz",
+      "names": [
+        "Arguel's Blood Fast",
+        "Temple of Aclazotz"
+      ],
+      "number": "2b",
+      "rarity": "Mythic Rare",
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "(Transforms from Arguel's Blood Fast.)\n{T}: Add {B}.\n{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
+      "type": "Legendary Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "id": "2e1599bd40457f279873faac85d06901cf0040f4",
+      "imageName": "arlinn kord",
+      "layout": "double-faced",
+      "loyalty": 3,
+      "manaCost": "{2}{R}{G}",
+      "mciNumber": "3a",
+      "multiverseid": 439318,
+      "name": "Arlinn Kord",
+      "names": [
+        "Arlinn Kord",
+        "Arlinn, Embraced by the Moon"
+      ],
+      "number": "3a",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Arlinn"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
+      "type": "Legendary Planeswalker — Arlinn",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "id": "14eb2fe8d774a6963425c2bf17228fc376d8c568",
+      "imageName": "arlinn, embraced by the moon",
+      "layout": "double-faced",
+      "mciNumber": "3b",
+      "multiverseid": 439319,
+      "name": "Arlinn, Embraced by the Moon",
+      "names": [
+        "Arlinn Kord",
+        "Arlinn, Embraced by the Moon"
+      ],
+      "number": "3b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Arlinn"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Creatures you control get +1/+1 and gain trample until end of turn.\n−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform Arlinn, Embraced by the Moon.\n−6: You get an emblem with \"Creatures you control have haste and '{T}: This creature deals damage equal to its power to any target.'\"",
+      "type": "Legendary Planeswalker — Arlinn",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Jason Chan",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "dfe65ada17e1be77d8a93e2fa251cde946e69a0a",
+      "imageName": "bloodline keeper",
+      "layout": "double-faced",
+      "manaCost": "{2}{B}{B}",
+      "mciNumber": "4a",
+      "multiverseid": 439320,
+      "name": "Bloodline Keeper",
+      "names": [
+        "Bloodline Keeper",
+        "Lord of Lineage"
+      ],
+      "number": "4a",
+      "power": "3",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Vampire"
+      ],
+      "text": "Flying\n{T}: Create a 2/2 black Vampire creature token with flying.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
+      "toughness": "3",
+      "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jason Chan",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "e69df120e4ca429f4fd16dce14cac205182dc5e4",
+      "imageName": "lord of lineage",
+      "layout": "double-faced",
+      "mciNumber": "4b",
+      "multiverseid": 439321,
+      "name": "Lord of Lineage",
+      "names": [
+        "Bloodline Keeper",
+        "Lord of Lineage"
+      ],
+      "number": "4b",
+      "power": "5",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Vampire"
+      ],
+      "text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Create a 2/2 black Vampire creature token with flying.",
+      "toughness": "5",
+      "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 7,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "She now sees only Emrakul's visions.",
+      "id": "041d1e56f21d873719b992741342946579c50275",
+      "imageName": "bruna, the fading light",
+      "layout": "meld",
+      "manaCost": "{5}{W}{W}",
+      "mciNumber": "5a",
+      "multiverseid": 439322,
+      "name": "Bruna, the Fading Light",
+      "names": [
+        "Bruna, the Fading Light",
+        "Brisela, Voice of Nightmares"
+      ],
+      "number": "5a",
+      "power": "5",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Angel",
+        "Horror"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.\nFlying, vigilance\n(Melds with Gisela, the Broken Blade.)",
+      "toughness": "7",
+      "type": "Legendary Creature — Angel Horror",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 11,
+      "flavor": "Upon discovering what had become of her sisters, Sigarda could only weep.",
+      "id": "f11e3f8f08d49234c4d1a59ba82b87ad9196cefb",
+      "imageName": "brisela, voice of nightmares1",
+      "layout": "meld",
+      "mciNumber": "5b",
+      "multiverseid": 439323,
+      "name": "Brisela, Voice of Nightmares",
+      "names": [
+        "Gisela, the Broken Blade",
+        "Brisela, Voice of Nightmares"
+      ],
+      "number": "5b",
+      "power": "9",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Eldrazi",
+        "Angel"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, first strike, vigilance, lifelink\nYour opponents can't cast spells with converted mana cost 3 or less.",
+      "toughness": "10",
+      "type": "Legendary Creature — Eldrazi Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 11,
+      "colorIdentity": [
+        "W"
+      ],
+      "flavor": "Upon discovering what had become of her sisters, Sigarda could only weep.",
+      "id": "0e1bfd1df714ad29eac23ddd5eceeb5473108b17",
+      "imageName": "brisela, voice of nightmares2",
+      "layout": "meld",
+      "mciNumber": "5b",
+      "multiverseid": 439323,
+      "name": "Brisela, Voice of Nightmares",
+      "names": [
+        "Bruna, the Fading Light",
+        "Brisela, Voice of Nightmares"
+      ],
+      "number": "5b",
+      "power": "9",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Eldrazi",
+        "Angel"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, first strike, vigilance, lifelink\nYour opponents can't cast spells with converted mana cost 3 or less.",
+      "toughness": "10",
+      "type": "Legendary Creature — Eldrazi Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "16a74a635ae953bdee204b9081e786a546105c45",
+      "imageName": "chandra, fire of kaladesh",
+      "layout": "double-faced",
+      "manaCost": "{1}{R}{R}",
+      "mciNumber": "6a",
+      "multiverseid": 439324,
+      "name": "Chandra, Fire of Kaladesh",
+      "names": [
+        "Chandra, Fire of Kaladesh",
+        "Chandra, Roaring Flame"
+      ],
+      "number": "6a",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.\n{T}: Chandra, Fire of Kaladesh deals 1 damage to target player or planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
+      "toughness": "2",
+      "type": "Legendary Creature — Human Shaman",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "7838326e926bea3152d8ffd0f1f92d388b6cdcbc",
+      "imageName": "chandra, roaring flame",
+      "layout": "double-faced",
+      "loyalty": 4,
+      "mciNumber": "6b",
+      "multiverseid": 439325,
+      "name": "Chandra, Roaring Flame",
+      "names": [
+        "Chandra, Fire of Kaladesh",
+        "Chandra, Roaring Flame"
+      ],
+      "number": "6b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Chandra"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.\n−2: Chandra, Roaring Flame deals 2 damage to target creature.\n−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
+      "type": "Legendary Planeswalker — Chandra",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Lius Lasahido",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "6cea8866975ffd153a568ebed6e182d92b77ffea",
+      "imageName": "delver of secrets",
+      "layout": "double-faced",
+      "manaCost": "{U}",
+      "mciNumber": "7a",
+      "multiverseid": 439326,
+      "name": "Delver of Secrets",
+      "names": [
+        "Delver of Secrets",
+        "Insectile Aberration"
+      ],
+      "number": "7a",
+      "power": "1",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",
+      "toughness": "1",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Lius Lasahido",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Unfortunately, all my test animals have died or escaped, so I shall be the final subject. I feel no fear. This is a momentous night.\"\n—Laboratory notes, final entry",
+      "id": "bca7f074934d2e77607ee1a18b15ed12da13599a",
+      "imageName": "insectile aberration",
+      "layout": "double-faced",
+      "mciNumber": "7b",
+      "multiverseid": 439327,
+      "name": "Insectile Aberration",
+      "names": [
+        "Delver of Secrets",
+        "Insectile Aberration"
+      ],
+      "number": "7b",
+      "power": "3",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Insect"
+      ],
+      "text": "Flying",
+      "toughness": "2",
+      "type": "Creature — Human Insect",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "flavor": "Those who grasp its hilt soon hear the demon's call.",
+      "id": "7cd1e09aafe6179016b3883fdb1be7841f873bfa",
+      "imageName": "elbrus, the binding blade",
+      "layout": "double-faced",
+      "manaCost": "{7}",
+      "mciNumber": "8a",
+      "multiverseid": 439328,
+      "name": "Elbrus, the Binding Blade",
+      "names": [
+        "Elbrus, the Binding Blade",
+        "Withengar Unbound"
+      ],
+      "number": "8a",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Equipment"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
+      "type": "Legendary Artifact — Equipment",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "There are not enough lives on Innistrad to satisfy his thirst for retribution.",
+      "id": "41c84842f39566ec6aecb209dbb32cfb132d52a6",
+      "imageName": "withengar unbound",
+      "layout": "double-faced",
+      "mciNumber": "8b",
+      "multiverseid": 439329,
+      "name": "Withengar Unbound",
+      "names": [
+        "Elbrus, the Binding Blade",
+        "Withengar Unbound"
+      ],
+      "number": "8b",
+      "power": "13",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Demon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, intimidate, trample (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
+      "toughness": "13",
+      "type": "Legendary Creature — Demon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Grzegorz Rutkowski",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "6da7da5c91153c86ec676de228068eca8ccdcd84",
+      "imageName": "garruk relentless",
+      "layout": "double-faced",
+      "loyalty": 3,
+      "manaCost": "{3}{G}",
+      "mciNumber": "9a",
+      "multiverseid": 439330,
+      "name": "Garruk Relentless",
+      "names": [
+        "Garruk Relentless",
+        "Garruk, the Veil-Cursed"
+      ],
+      "number": "9a",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Garruk"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.\n0: Create a 2/2 green Wolf creature token.",
+      "type": "Legendary Planeswalker — Garruk",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Grzegorz Rutkowski",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "id": "1e73b34c98e01c9366a4a0adb063839b85269236",
+      "imageName": "garruk, the veil-cursed",
+      "layout": "double-faced",
+      "mciNumber": "9b",
+      "multiverseid": 439331,
+      "name": "Garruk, the Veil-Cursed",
+      "names": [
+        "Garruk Relentless",
+        "Garruk, the Veil-Cursed"
+      ],
+      "number": "9b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Garruk"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Create a 1/1 black Wolf creature token with deathtouch.\n−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
+      "type": "Legendary Planeswalker — Garruk",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "She now hears only Emrakul's murmurs.",
+      "id": "e3c7af4decf47eee3ea9e9cd8038dcf417eb2227",
+      "imageName": "gisela, the broken blade",
+      "layout": "meld",
+      "manaCost": "{2}{W}{W}",
+      "mciNumber": "10a",
+      "multiverseid": 439332,
+      "name": "Gisela, the Broken Blade",
+      "names": [
+        "Gisela, the Broken Blade",
+        "Brisela, Voice of Nightmares"
+      ],
+      "number": "10a",
+      "power": "4",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Angel",
+        "Horror"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, first strike, lifelink\nAt the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.",
+      "toughness": "3",
+      "type": "Legendary Creature — Angel Horror",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Magali Villeneuve",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "id": "c5890a1f29e22aa10e066375d3ada5ba1220e17d",
+      "imageName": "huntmaster of the fells",
+      "layout": "double-faced",
+      "manaCost": "{2}{R}{G}",
+      "mciNumber": "11a",
+      "multiverseid": 439333,
+      "name": "Huntmaster of the Fells",
+      "names": [
+        "Huntmaster of the Fells",
+        "Ravager of the Fells"
+      ],
+      "number": "11a",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Werewolf"
+      ],
+      "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+      "toughness": "2",
+      "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Magali Villeneuve",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "id": "f6d927d273da10e6602e81b7a806d9fa82962af1",
+      "imageName": "ravager of the fells",
+      "layout": "double-faced",
+      "mciNumber": "11b",
+      "multiverseid": 439334,
+      "name": "Ravager of the Fells",
+      "names": [
+        "Huntmaster of the Fells",
+        "Ravager of the Fells"
+      ],
+      "number": "11b",
+      "power": "4",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Werewolf"
+      ],
+      "text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent or planeswalker and 2 damage to up to one target creature that player or that planeswalker's controller controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+      "toughness": "4",
+      "type": "Creature — Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"People's thoughts just come to me. Sometimes I don't know if it's them or me thinking.\"",
+      "id": "6d78c85ef5113c3d5c18a13d6d51fa2be7ca03b4",
+      "imageName": "jace, vryn's prodigy",
+      "layout": "double-faced",
+      "manaCost": "{1}{U}",
+      "mciNumber": "12a",
+      "multiverseid": 439335,
+      "name": "Jace, Vryn's Prodigy",
+      "names": [
+        "Jace, Vryn's Prodigy",
+        "Jace, Telepath Unbound"
+      ],
+      "number": "12a",
+      "power": "0",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.",
+      "toughness": "2",
+      "type": "Legendary Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "42ae5e744763b26ba7775dfb8d97918b43bd4cd9",
+      "imageName": "jace, telepath unbound",
+      "layout": "double-faced",
+      "loyalty": 5,
+      "mciNumber": "12b",
+      "multiverseid": 439336,
+      "name": "Jace, Telepath Unbound",
+      "names": [
+        "Jace, Vryn's Prodigy",
+        "Jace, Telepath Unbound"
+      ],
+      "number": "12b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Jace"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Up to one target creature gets -2/-0 until your next turn.\n−3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n−9: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard.\"",
+      "type": "Legendary Planeswalker — Jace",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "dadb6c264ae9cf570f75f3e812f011a84dc4a957",
+      "imageName": "kytheon, hero of akros",
+      "layout": "double-faced",
+      "manaCost": "{W}",
+      "mciNumber": "13a",
+      "multiverseid": 439337,
+      "name": "Kytheon, Hero of Akros",
+      "names": [
+        "Kytheon, Hero of Akros",
+        "Gideon, Battle-Forged"
+      ],
+      "number": "13a",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn.",
+      "toughness": "1",
+      "type": "Legendary Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "d48040f4e65a44b04934b0497cc1b440cc88ced9",
+      "imageName": "gideon, battle-forged",
+      "layout": "double-faced",
+      "loyalty": 3,
+      "mciNumber": "13b",
+      "multiverseid": 439338,
+      "name": "Gideon, Battle-Forged",
+      "names": [
+        "Kytheon, Hero of Akros",
+        "Gideon, Battle-Forged"
+      ],
+      "number": "13b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Gideon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.\n+1: Until your next turn, target creature gains indestructible. Untap that creature.\n0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+      "type": "Legendary Planeswalker — Gideon",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Karla Ortiz",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "ed508942e600b36b045116a062378f5cd6c38ea1",
+      "imageName": "liliana, heretical healer",
+      "layout": "double-faced",
+      "manaCost": "{1}{B}{B}",
+      "mciNumber": "14a",
+      "multiverseid": 439339,
+      "name": "Liliana, Heretical Healer",
+      "names": [
+        "Liliana, Heretical Healer",
+        "Liliana, Defiant Necromancer"
+      ],
+      "number": "14a",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.",
+      "toughness": "3",
+      "type": "Legendary Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Karla Ortiz",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "2de25e412b5b8812142b1d8557f5d803875e70b7",
+      "imageName": "liliana, defiant necromancer",
+      "layout": "double-faced",
+      "loyalty": 3,
+      "mciNumber": "14b",
+      "multiverseid": 439340,
+      "name": "Liliana, Defiant Necromancer",
+      "names": [
+        "Liliana, Heretical Healer",
+        "Liliana, Defiant Necromancer"
+      ],
+      "number": "14b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Liliana"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+2: Each player discards a card.\n−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n−8: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
+      "type": "Legendary Planeswalker — Liliana",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Wesley Burt",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "987458f90ab0c15c7dc07fd7fa4c92bc4b54746c",
+      "imageName": "nissa, vastwood seer",
+      "layout": "double-faced",
+      "manaCost": "{2}{G}",
+      "mciNumber": "15a",
+      "multiverseid": 439341,
+      "name": "Nissa, Vastwood Seer",
+      "names": [
+        "Nissa, Vastwood Seer",
+        "Nissa, Sage Animist"
+      ],
+      "number": "15a",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Elf",
+        "Scout"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.\nWhenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.",
+      "toughness": "2",
+      "type": "Legendary Creature — Elf Scout",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Wesley Burt",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "e9d4317cb52088f58abbca8a3a63869e51e4f8d9",
+      "imageName": "nissa, sage animist",
+      "layout": "double-faced",
+      "loyalty": 3,
+      "mciNumber": "15b",
+      "multiverseid": 439342,
+      "name": "Nissa, Sage Animist",
+      "names": [
+        "Nissa, Vastwood Seer",
+        "Nissa, Sage Animist"
+      ],
+      "number": "15b",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Nissa"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n−2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
+      "type": "Legendary Planeswalker — Nissa",
+      "types": [
+        "Planeswalker"
+      ]
+    }
+  ]
+}

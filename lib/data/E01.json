@@ -1,0 +1,3324 @@
+{
+  "name": "Archenemy: Nicol Bolas",
+  "code": "E01",
+  "magicCardsInfoCode": "e01",
+  "releaseDate": "2017-06-16",
+  "border": "black",
+  "type": "archenemy",
+  "cards": [
+    {
+      "artist": "Aleksi Briclot",
+      "cmc": 6,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "20637091f02e789e0eb675ad2ddb2eb35cf2a69d",
+      "imageName": "aegis angel",
+      "layout": "normal",
+      "manaCost": "{4}{W}{W}",
+      "mciNumber": "1",
+      "multiverseid": 430540,
+      "name": "Aegis Angel",
+      "number": "1",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Angel"
+      ],
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say \"destroy\" don't destroy it. A creature with indestructible can't be destroyed by damage.)",
+      "toughness": "5",
+      "type": "Creature — Angel",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Adrian Majkrzak",
+      "cmc": 0,
+      "id": "fc82b63fa911f1f067bfa147a4dd993dae2d08c2",
+      "imageName": "because i have willed it",
+      "layout": "scheme",
+      "multiverseid": 430646,
+      "name": "Because I Have Willed It",
+      "number": "1",
+      "rarity": "Common",
+      "supertypes": [
+        "Ongoing"
+      ],
+      "text": "(An ongoing scheme remains face up until it's abandoned.)\nSpells you cast cost {1} less to cast.\nAt the beginning of your opponents' end step, if they cast four or more spells this turn, abandon this scheme.",
+      "type": "Ongoing Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Dwarves have an instinct for repair, an inherent understanding of how systems work, and a reputation for fearlessness. They're perfect candidates for the Fair's emergency response team.",
+      "id": "d43016981b23288ff8faf3dfac674cdd1560a719",
+      "imageName": "aerial responder",
+      "layout": "normal",
+      "manaCost": "{1}{W}{W}",
+      "mciNumber": "2",
+      "multiverseid": 430541,
+      "name": "Aerial Responder",
+      "number": "2",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dwarf",
+        "Soldier"
+      ],
+      "text": "Flying, vigilance, lifelink",
+      "toughness": "3",
+      "type": "Creature — Dwarf Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Zack Stella",
+      "cmc": 0,
+      "id": "2f35ead5f3cbfc54cbffbc078fdc3c0782ec1546",
+      "imageName": "behold my grandeur",
+      "layout": "scheme",
+      "multiverseid": 430647,
+      "name": "Behold My Grandeur",
+      "number": "2",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, add {U}{B}{R}.\nWhen you set this scheme in motion, if you control six or more lands, you may search your library for a card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Anna Steinbauer",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Arise. You have been anointed by the light. Go forth and fight without fear, for you shall be victorious.\"",
+      "id": "1cf3236cd7ac03ca547385bba70e46ead0f98d1f",
+      "imageName": "anointer of champions",
+      "layout": "normal",
+      "manaCost": "{W}",
+      "mciNumber": "3",
+      "multiverseid": 430542,
+      "name": "Anointer of Champions",
+      "number": "3",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "text": "{T}: Target attacking creature gets +1/+1 until end of turn.",
+      "toughness": "1",
+      "type": "Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 0,
+      "id": "b2530e7eab2423b869c202c01a304c33ed600534",
+      "imageName": "bow to my command",
+      "layout": "scheme",
+      "multiverseid": 430648,
+      "name": "Bow to My Command",
+      "number": "3",
+      "rarity": "Common",
+      "supertypes": [
+        "Ongoing"
+      ],
+      "text": "(An ongoing scheme remains face up until it's abandoned.)\nAs you set this scheme in motion, choose an opponent.\nCreatures the chosen player controls can't attack you or planeswalkers you control.\nAt the beginning of your opponents' end step, they may tap any number of untapped creatures they control with total power 8 or greater. If they do, abandon this scheme.",
+      "type": "Ongoing Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Lars Grant-West",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "He vowed he would never rest until he reached his destination. He doesn't know how right he was.",
+      "id": "04a99138bc263c756aedcad490648aecade528af",
+      "imageName": "doomed traveler",
+      "layout": "normal",
+      "manaCost": "{W}",
+      "mciNumber": "4",
+      "multiverseid": 430543,
+      "name": "Doomed Traveler",
+      "number": "4",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying.",
+      "toughness": "1",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 0,
+      "id": "50ae7c27a2cb41bc898faad11ff9c56aa6472d14",
+      "imageName": "choose your demise",
+      "layout": "scheme",
+      "multiverseid": 430649,
+      "name": "Choose Your Demise",
+      "number": "4",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, look at the top four cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of those piles. Put the cards in that pile into your hand and the rest on the bottom of your library in any order.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Johann Bodin",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "The demon had flown past the reach of Erebos's whip but not the point of the sun god's spear.",
+      "id": "6826cf2fff5cab1c43d1e8e2f041447526b111b8",
+      "imageName": "excoriate",
+      "layout": "normal",
+      "manaCost": "{3}{W}",
+      "mciNumber": "5",
+      "multiverseid": 430544,
+      "name": "Excoriate",
+      "number": "5",
+      "rarity": "Common",
+      "text": "Exile target tapped creature.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Titus Lunter",
+      "cmc": 0,
+      "flavor": "\"Pain is a delusion of the weak. I'll demonstrate.\"",
+      "id": "68a863aaf8b72eb68b3b80e5967b3cda4fd2bb76",
+      "imageName": "delight in the hunt",
+      "layout": "scheme",
+      "multiverseid": 430650,
+      "name": "Delight in the Hunt",
+      "number": "5",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, create a 3/3 black Horror creature token and prevent all damage that would be dealt to creatures you control this turn.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Johann Bodin",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "0d7b980cca33e4c69eb975338b1d11ff0207b1a3",
+      "imageName": "expedition raptor",
+      "layout": "normal",
+      "manaCost": "{3}{W}{W}",
+      "mciNumber": "6",
+      "multiverseid": 430545,
+      "name": "Expedition Raptor",
+      "number": "6",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Bird"
+      ],
+      "text": "Flying\nWhen Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+      "toughness": "2",
+      "type": "Creature — Bird",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mathias Kollros",
+      "cmc": 0,
+      "flavor": "\"Let me unburden you of these fatuous hopes.\"",
+      "id": "d891507bf134ac063c7912ad633f53ae2f6a27f9",
+      "imageName": "every dream a nightmare",
+      "layout": "scheme",
+      "multiverseid": 430651,
+      "name": "Every Dream a Nightmare",
+      "number": "6",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, each opponent discards a card. You draw a card for each land card discarded this way.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "David Rapoza",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "His prowess gives the guildless hope that they can hold out against tyranny.",
+      "id": "285c4944ea231477c24c2ebfcad7aac3999234bc",
+      "imageName": "fencing ace",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "7",
+      "multiverseid": 430546,
+      "name": "Fencing Ace",
+      "number": "7",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Double strike (This creature deals both first-strike and regular combat damage.)",
+      "toughness": "1",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Marco Nelor",
+      "cmc": 0,
+      "flavor": "\"My generosity blesses you all, even the undeserving.\"",
+      "id": "de1fd2b0e15849e6767eb5dff2be23a524fb8561",
+      "imageName": "for each of you, a gift",
+      "layout": "scheme",
+      "multiverseid": 430652,
+      "name": "For Each of You, a Gift",
+      "number": "7",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, for each opponent, create a 3/3 black Horror creature token that attacks that player each combat if able.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Wesley Burt",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "d6f483d3865868fa9f5d13d9982d6f5eefcfe0af",
+      "imageName": "fiendslayer paladin",
+      "layout": "normal",
+      "manaCost": "{1}{W}{W}",
+      "mciNumber": "8",
+      "multiverseid": 430547,
+      "name": "Fiendslayer Paladin",
+      "number": "8",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "First strike (This creature deals combat damage before creatures without first strike.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nFiendslayer Paladin can't be the target of black or red spells your opponents control.",
+      "toughness": "2",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Anthony Palumbo",
+      "cmc": 0,
+      "id": "7d94580d9ce3eadc3a10f789572e144a17ccb207",
+      "imageName": "know evil",
+      "layout": "scheme",
+      "multiverseid": 430653,
+      "name": "Know Evil",
+      "number": "8",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, until your next turn, up to one target opponent can't attack with creatures, up to one target opponent can't cast creature spells, and up to one target opponent can't cast noncreature spells. You can't choose any player as a target more than once.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Jeremy Enecio",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Its wings disturb more than air.",
+      "id": "fbfe5477460e68a249683ac54275696256db7db5",
+      "imageName": "flickerwisp",
+      "layout": "normal",
+      "manaCost": "{1}{W}{W}",
+      "mciNumber": "9",
+      "multiverseid": 430548,
+      "name": "Flickerwisp",
+      "number": "9",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Flying\nWhen Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+      "toughness": "1",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "David Gaillet",
+      "cmc": 0,
+      "flavor": "\"To think you've spent years honing your body only to die like this.\"",
+      "id": "12430de5c39a477ba824d9a6b58181ef94ffce74",
+      "imageName": "make yourself useful",
+      "layout": "scheme",
+      "multiverseid": 430654,
+      "name": "Make Yourself Useful",
+      "number": "9",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, destroy target creature an opponent controls. If a creature is destroyed this way, you gain life equal to its toughness.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "afd4aa5a66703c88c190a22cc69751d2e14affd1",
+      "imageName": "gideon jura",
+      "layout": "normal",
+      "loyalty": 6,
+      "manaCost": "{3}{W}{W}",
+      "mciNumber": "10",
+      "multiverseid": 430549,
+      "name": "Gideon Jura",
+      "number": "10",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Gideon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.\n−2: Destroy target tapped creature.\n0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+      "type": "Legendary Planeswalker — Gideon",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Volkan Baga",
+      "cmc": 0,
+      "flavor": "\"Cry out for your comrades so that they\nmay join you in misery.\"",
+      "id": "90fedce7e004a4c947d94f9ad92ba86fedaaebce",
+      "imageName": "the mighty will fall",
+      "layout": "scheme",
+      "multiverseid": 430655,
+      "name": "The Mighty Will Fall",
+      "number": "10",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, choose an opponent with the highest life total among your opponents. That player loses 7 life.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"The essence of a lawful society is swift deterrence.\"",
+      "id": "5a22fdedcab114f918bd3ad0f1d7b9baeb307c8c",
+      "imageName": "gideon's lawkeeper",
+      "layout": "normal",
+      "manaCost": "{W}",
+      "mciNumber": "11",
+      "multiverseid": 430550,
+      "name": "Gideon's Lawkeeper",
+      "number": "11",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "{W}, {T}: Tap target creature.",
+      "toughness": "1",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Seb McKinnon",
+      "cmc": 0,
+      "id": "647d4df4db7832b73b3f2543430c68acb42e6a4e",
+      "imageName": "my forces are innumerable",
+      "layout": "scheme",
+      "multiverseid": 430656,
+      "name": "My Forces Are Innumerable",
+      "number": "11",
+      "rarity": "Common",
+      "supertypes": [
+        "Ongoing"
+      ],
+      "text": "(An ongoing scheme remains face up until it's abandoned.)\nAt the beginning of your end step, create a 3/3 black Horror creature token.\nAt the beginning of your opponents' end step, they may sacrifice two creatures. If they do, abandon this scheme.",
+      "type": "Ongoing Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Your superstitions and mumblings are useless chaff before my righteousness.\"",
+      "id": "66a4e091d44722fcd77253ba49333c57364ea1e1",
+      "imageName": "grand abolisher",
+      "layout": "normal",
+      "manaCost": "{W}{W}",
+      "mciNumber": "12",
+      "multiverseid": 430551,
+      "name": "Grand Abolisher",
+      "number": "12",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",
+      "toughness": "2",
+      "type": "Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 0,
+      "flavor": "\"Groveling already? I'm just starting to enjoy myself.\"",
+      "id": "d432a53bb391e9fe11810a1c5ae6d75f627115c2",
+      "imageName": "my laughter echoes",
+      "layout": "scheme",
+      "multiverseid": 430657,
+      "name": "My Laughter Echoes",
+      "number": "12",
+      "rarity": "Common",
+      "supertypes": [
+        "Ongoing"
+      ],
+      "text": "(An ongoing scheme remains face up until it's abandoned.)\nWhenever you set a non-ongoing scheme in motion, you may abandon this scheme. If you do, set that scheme in motion again.",
+      "type": "Ongoing Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Igor Kieryluk",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"There is power in abandon, but far more in control.\"\n—Warden Hixus, to Kytheon",
+      "id": "6854c22de8288694dd91a3404260aa158abe7af9",
+      "imageName": "grasp of the hieromancer",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "13",
+      "multiverseid": 430552,
+      "name": "Grasp of the Hieromancer",
+      "number": "13",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature gets +1/+1 and has \"Whenever this creature attacks, tap target creature defending player controls.\"",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "McLean Kendree",
+      "cmc": 0,
+      "flavor": "\"Your companions were lucky to have died first.\"",
+      "id": "78776a9e629c5b3afe01367b53cc6bcf26c6e9b3",
+      "imageName": "no one will hear your cries",
+      "layout": "scheme",
+      "multiverseid": 430658,
+      "name": "No One Will Hear Your Cries",
+      "number": "13",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, each opponent chooses a creature they control, then sacrifices the rest.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "D. Alexander Gregory",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "a196f61be6874dddca61ae690e3198e4ee8cceac",
+      "imageName": "lightwielder paladin",
+      "layout": "normal",
+      "manaCost": "{3}{W}{W}",
+      "mciNumber": "14",
+      "multiverseid": 430553,
+      "name": "Lightwielder Paladin",
+      "number": "14",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.",
+      "toughness": "4",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Aaron Miller",
+      "cmc": 0,
+      "id": "1b1a06d002bf465ac514a22a95520b594d77791a",
+      "imageName": "pay tribute to me",
+      "layout": "scheme",
+      "multiverseid": 430659,
+      "name": "Pay Tribute to Me",
+      "number": "14",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, each opponent sacrifices a creature. If you control six or more lands, each opponent sacrifices another creature.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Jana Schirmer & Johannes Voss",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"In these halls there is no pass or fail. Your true test comes with the first full moon.\"",
+      "id": "097f1e25ac8bb108d11271c3612baf37f9c47dc6",
+      "imageName": "mentor of the meek",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "mciNumber": "15",
+      "multiverseid": 430554,
+      "name": "Mentor of the Meek",
+      "number": "15",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.",
+      "toughness": "2",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "id": "ce811a7c968254eaad3258fe9021315a53a1b79d",
+      "imageName": "power without equal",
+      "layout": "scheme",
+      "multiverseid": 430660,
+      "name": "Power Without Equal",
+      "number": "15",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, draw three cards. You have no maximum hand size until your next turn. If you control six or more lands, you may cast up to three nonland cards from your hand without paying their mana costs.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"My faith is stronger than fang, claw, or mindless hunger.\"",
+      "id": "daef9e0af05bb834cc553fa57ea5c9caa9c06b9a",
+      "imageName": "moment of heroism",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "16",
+      "multiverseid": 430555,
+      "name": "Moment of Heroism",
+      "number": "16",
+      "rarity": "Common",
+      "text": "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Yeong-Hao Han",
+      "cmc": 0,
+      "flavor": "\"The gates open to my new era.\"",
+      "id": "8c57692790ac3f7e3ba919ac15c8d52cf5ed5556",
+      "imageName": "a reckoning approaches",
+      "layout": "scheme",
+      "multiverseid": 430661,
+      "name": "A Reckoning Approaches",
+      "number": "16",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, look at the top six cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Michael Komarck",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Fear holds no place in faith's battle plan.\"",
+      "id": "71935f829323f46e35756c4d463f2df49671c6e5",
+      "imageName": "odric, master tactician",
+      "layout": "normal",
+      "manaCost": "{2}{W}{W}",
+      "mciNumber": "17",
+      "multiverseid": 430556,
+      "name": "Odric, Master Tactician",
+      "number": "17",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.",
+      "toughness": "4",
+      "type": "Legendary Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Tomasz Jedruszek",
+      "cmc": 0,
+      "flavor": "\"The dunes smell spilled blood.\"",
+      "id": "3288ea6900488eb83c99091d9ba2ed5d368e8515",
+      "imageName": "there is no refuge",
+      "layout": "scheme",
+      "multiverseid": 430662,
+      "name": "There Is No Refuge",
+      "number": "17",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, it deals 3 damage to up to one target creature. Create a 3/3 black Horror creature token.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"In troubled times, we all need someone to watch our back.\"",
+      "id": "8502230f213f3ebc9e44e7b642471460fa9173f1",
+      "imageName": "precinct captain",
+      "layout": "normal",
+      "manaCost": "{W}{W}",
+      "mciNumber": "18",
+      "multiverseid": 430557,
+      "name": "Precinct Captain",
+      "number": "18",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "First strike\nWhenever Precinct Captain deals combat damage to a player, create a 1/1 white Soldier creature token.",
+      "toughness": "2",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Min Yum",
+      "cmc": 0,
+      "flavor": "\"Little insects, I have created entire worlds and extinguished twice as many.\"",
+      "id": "f6184643bdae1936cb9f7e61da7f231635beb55e",
+      "imageName": "this world belongs to me",
+      "layout": "scheme",
+      "multiverseid": 430663,
+      "name": "This World Belongs to Me",
+      "number": "18",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, draw two cards. You may play an additional land this turn.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Anastasia Ovchinnikova",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Sometimes gestures of support are small. Sometimes not.",
+      "id": "f1ccf71decf5ec75a1abbf3201280b2e46220b8f",
+      "imageName": "relief captain",
+      "layout": "normal",
+      "manaCost": "{2}{W}{W}",
+      "mciNumber": "19",
+      "multiverseid": 430558,
+      "name": "Relief Captain",
+      "number": "19",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Kor",
+        "Knight",
+        "Ally"
+      ],
+      "text": "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter on each of up to three other target creatures.)",
+      "toughness": "2",
+      "type": "Creature — Kor Knight Ally",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 0,
+      "flavor": "\"Vow your allegiance to true power.\"",
+      "id": "befed46a40418835b770ea245b8b6c05deaec995",
+      "imageName": "what's yours is now mine",
+      "layout": "scheme",
+      "multiverseid": 430664,
+      "name": "What's Yours Is Now Mine",
+      "number": "19",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, gain control of target creature an opponent controls and untap it.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Chris Rallis",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Sea Gate may have fallen, but we still stand. We still fight.\"\n—Gideon Jura",
+      "id": "9c33773599553deaef34bc27b5c1ae6d99947f34",
+      "imageName": "shoulder to shoulder",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "mciNumber": "20",
+      "multiverseid": 430559,
+      "name": "Shoulder to Shoulder",
+      "number": "20",
+      "rarity": "Common",
+      "text": "Support 2. (Put a +1/+1 counter on each of up to two target creatures.)\nDraw a card.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Yohann Schepacz",
+      "cmc": 0,
+      "flavor": "\"Don't fret, infants. It wouldn't have worked anyway.\"",
+      "id": "daff9f0a2179c1f1a689d29ed64b302d40eedd88",
+      "imageName": "when will you learn",
+      "layout": "scheme",
+      "multiverseid": 430665,
+      "name": "When Will You Learn?",
+      "number": "20",
+      "rarity": "Common",
+      "text": "When you set this scheme in motion, each opponent exiles the top card of their library. You may cast any number of nonland cards exiled this way without paying their mana costs.",
+      "type": "Scheme",
+      "types": [
+        "Scheme"
+      ]
+    },
+    {
+      "artist": "Todd Lockwood",
+      "cmc": 6,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "A blazing sun that never sets.",
+      "id": "c16117623abaaed799f6b7a060790e2bae4aa907",
+      "imageName": "sun titan",
+      "layout": "normal",
+      "manaCost": "{4}{W}{W}",
+      "mciNumber": "21",
+      "multiverseid": 430560,
+      "name": "Sun Titan",
+      "number": "21",
+      "power": "6",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Giant"
+      ],
+      "text": "Vigilance\nWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.",
+      "toughness": "6",
+      "type": "Creature — Giant",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Rebecca Guay",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Idealism fits him better than his armor.",
+      "id": "5b09231fb8d58b77636a21553b7604cdbf11f8e3",
+      "imageName": "youthful knight",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "22",
+      "multiverseid": 430561,
+      "name": "Youthful Knight",
+      "number": "22",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "text": "First strike",
+      "toughness": "1",
+      "type": "Creature — Human Knight",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Sara Winters",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Four parts molten bronze, yes . . . one part frozen mercury, yes, yes . . . but then what?\"",
+      "id": "c52cc15124fa45c0a3e84e5f363c59b8ec277265",
+      "imageName": "compulsive research",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "23",
+      "multiverseid": 430562,
+      "name": "Compulsive Research",
+      "number": "23",
+      "rarity": "Common",
+      "text": "Target player draws three cards. Then that player discards two cards unless they discard a land card.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "David Gaillet",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "9eebd3a8d1b85226e0b7ad80aae0ac73f3772dd1",
+      "imageName": "icefall regent",
+      "layout": "normal",
+      "manaCost": "{3}{U}{U}",
+      "mciNumber": "24",
+      "multiverseid": 430563,
+      "name": "Icefall Regent",
+      "number": "24",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhen Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent.\nSpells your opponents cast that target Icefall Regent cost {2} more to cast.",
+      "toughness": "3",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "68291b0fc0dd284b57f121392449084427f07da3",
+      "imageName": "ior ruin expedition",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "mciNumber": "25",
+      "multiverseid": 430564,
+      "name": "Ior Ruin Expedition",
+      "number": "25",
+      "rarity": "Common",
+      "text": "Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.\nRemove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "a5a550f6cf2d546e62f455cbfcaccff6afb57ca1",
+      "imageName": "prognostic sphinx",
+      "layout": "normal",
+      "manaCost": "{3}{U}{U}",
+      "mciNumber": "26",
+      "multiverseid": 430565,
+      "name": "Prognostic Sphinx",
+      "number": "26",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Sphinx"
+      ],
+      "text": "Flying\nDiscard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.\nWhenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+      "toughness": "5",
+      "type": "Creature — Sphinx",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Progress comes at a price.",
+      "id": "c593fd15e741c56e86a1fd9f7e767d93a6c3bb60",
+      "imageName": "reckless scholar",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "27",
+      "multiverseid": 430566,
+      "name": "Reckless Scholar",
+      "number": "27",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "{T}: Target player draws a card, then discards a card.",
+      "toughness": "1",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Justin Sweet",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "f7f131dd6edbd7fb7c34510b29503785abdb1caa",
+      "imageName": "sphinx of jwar isle",
+      "layout": "normal",
+      "manaCost": "{4}{U}{U}",
+      "mciNumber": "28",
+      "multiverseid": 430567,
+      "name": "Sphinx of Jwar Isle",
+      "number": "28",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Sphinx"
+      ],
+      "text": "Flying\nShroud (This creature can't be the target of spells or abilities.)\nYou may look at the top card of your library. (You may do this at any time.)",
+      "toughness": "5",
+      "type": "Creature — Sphinx",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Aleksi Briclot",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"I could see in the other mage's eyes that he'd thought of it too. Then it became a race to exploit the knowledge first.\"",
+      "id": "402f456d13b50d2b89e043d63155c35cb7df42ec",
+      "imageName": "vision skeins",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "mciNumber": "29",
+      "multiverseid": 430568,
+      "name": "Vision Skeins",
+      "number": "29",
+      "rarity": "Common",
+      "text": "Each player draws two cards.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Austin Hsu",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The best spot to hook one is right behind the gills.\"\n—Rana Cloudwake, kor skyfisher",
+      "id": "f0203f0032f30dca903b4ced41fa35e649265ee2",
+      "imageName": "windrider eel",
+      "layout": "normal",
+      "manaCost": "{3}{U}",
+      "mciNumber": "30",
+      "multiverseid": 430569,
+      "name": "Windrider Eel",
+      "number": "30",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Fish"
+      ],
+      "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Fish",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Why would I kill you all? Who then would be left to worship me?\"",
+      "id": "316d84c8c9f9999a30697618ed16e94a747cab26",
+      "imageName": "archfiend of depravity",
+      "layout": "normal",
+      "manaCost": "{3}{B}{B}",
+      "mciNumber": "31",
+      "multiverseid": 430570,
+      "name": "Archfiend of Depravity",
+      "number": "31",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "Flying\nAt the beginning of each opponent's end step, that player chooses up to two creatures they control, then sacrifices the rest.",
+      "toughness": "4",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Adam Paquette",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "83d39be368c687a697f6e5ff7ea78619170cc893",
+      "imageName": "deathbringer regent",
+      "layout": "normal",
+      "manaCost": "{5}{B}{B}",
+      "mciNumber": "32",
+      "multiverseid": 430571,
+      "name": "Deathbringer Regent",
+      "number": "32",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhen Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.",
+      "toughness": "6",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chippy",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The void is without substance but cuts like steel.",
+      "id": "b3ee08a8cc3102c7eb81bb314b46c09c5944b43b",
+      "imageName": "doom blade",
+      "layout": "normal",
+      "manaCost": "{1}{B}",
+      "mciNumber": "33",
+      "multiverseid": 430572,
+      "name": "Doom Blade",
+      "number": "33",
+      "rarity": "Uncommon",
+      "text": "Destroy target nonblack creature.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 6,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"He is judge, jury, and executioner because he killed them all.\"\n—Bishop Cawle of Elgaud",
+      "id": "a158ce0d3b6149c268ea5501de949da33ccb7311",
+      "imageName": "harvester of souls",
+      "layout": "normal",
+      "manaCost": "{4}{B}{B}",
+      "mciNumber": "34",
+      "multiverseid": 430573,
+      "name": "Harvester of Souls",
+      "number": "34",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "Deathtouch\nWhenever another nontoken creature dies, you may draw a card.",
+      "toughness": "5",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jeff Easley",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Nightscape masters don't stop at raising the spirit of a fallen battlemage. They raise the flesh along with it.",
+      "id": "cfbc66c81aef94ec8aba6bba90944e789bc5e255",
+      "imageName": "nightscape familiar",
+      "layout": "normal",
+      "manaCost": "{1}{B}",
+      "mciNumber": "35",
+      "multiverseid": 430574,
+      "name": "Nightscape Familiar",
+      "number": "35",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "Blue spells and red spells you cast cost {1} less to cast.\n{1}{B}: Regenerate Nightscape Familiar.",
+      "toughness": "1",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "rk post",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "373330627fb7d0aa21eb3560df207cfab55a6cd7",
+      "imageName": "overseer of the damned",
+      "layout": "normal",
+      "manaCost": "{5}{B}{B}",
+      "mciNumber": "36",
+      "multiverseid": 430575,
+      "name": "Overseer of the Damned",
+      "number": "36",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "Flying\nWhen Overseer of the Damned enters the battlefield, you may destroy target creature.\nWhenever a nontoken creature an opponent controls dies, create a tapped 2/2 black Zombie creature token.",
+      "toughness": "5",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"The end is justified in being mean. Or something like that.\"",
+      "id": "79e486e4a443c1b94bd2ba7d8adc6dc65e33a638",
+      "imageName": "reckless spite",
+      "layout": "normal",
+      "manaCost": "{1}{B}{B}",
+      "mciNumber": "37",
+      "multiverseid": 430576,
+      "name": "Reckless Spite",
+      "number": "37",
+      "rarity": "Uncommon",
+      "text": "Destroy two target nonblack creatures. You lose 5 life.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jason Chan",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "As they fought the Eldrazi, many vampires learned to live among humans. Others were unable to make the adjustment.",
+      "id": "8248504502ea999edf5ee9b386c10dfc06983eca",
+      "imageName": "vampire nighthawk",
+      "layout": "normal",
+      "manaCost": "{1}{B}{B}",
+      "mciNumber": "38",
+      "multiverseid": 430577,
+      "name": "Vampire Nighthawk",
+      "number": "38",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Vampire",
+        "Shaman"
+      ],
+      "text": "Flying, deathtouch, lifelink",
+      "toughness": "3",
+      "type": "Creature — Vampire Shaman",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "rk post",
+      "cmc": 8,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "06c7fb58308be35028f459ca14034f65c498d846",
+      "imageName": "avatar of fury",
+      "layout": "normal",
+      "manaCost": "{6}{R}{R}",
+      "mciNumber": "39",
+      "multiverseid": 430578,
+      "name": "Avatar of Fury",
+      "number": "39",
+      "power": "6",
+      "rarity": "Rare",
+      "subtypes": [
+        "Avatar"
+      ],
+      "text": "If an opponent controls seven or more lands, this spell costs {6} less to cast.\nFlying\n{R}: Avatar of Fury gets +1/+0 until end of turn.",
+      "toughness": "6",
+      "type": "Creature — Avatar",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Warren Mahy",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The shaman rattles not to inspire a battle fury but to drown out the shrieks of those fleeing the Eldrazi.",
+      "id": "f8f288758bfdee469254b55788cd6c2405600728",
+      "imageName": "battle-rattle shaman",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "mciNumber": "40",
+      "multiverseid": 430579,
+      "name": "Battle-Rattle Shaman",
+      "number": "40",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "text": "At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Goblin Shaman",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "f4c500273a2f35841aeac0f3e35d9793c493dd17",
+      "imageName": "blood ogre",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "mciNumber": "41",
+      "multiverseid": 430580,
+      "name": "Blood Ogre",
+      "number": "41",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Ogre",
+        "Warrior"
+      ],
+      "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nFirst strike (This creature deals combat damage before creatures without first strike.)",
+      "toughness": "2",
+      "type": "Creature — Ogre Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "9258b6e1671eb5749d54a3a5d5ba1b97ccbbf37f",
+      "imageName": "chandra, pyromaster",
+      "layout": "normal",
+      "loyalty": 4,
+      "manaCost": "{2}{R}{R}",
+      "mciNumber": "42",
+      "multiverseid": 430581,
+      "name": "Chandra, Pyromaster",
+      "number": "42",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Chandra"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n0: Exile the top card of your library. You may play it this turn.\n−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
+      "type": "Legendary Planeswalker — Chandra",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Chandra never believed in using her \"inside voice.\"",
+      "id": "4d916e29f0b571eb28453fc49e6bf0d5948f66a6",
+      "imageName": "chandra's outrage",
+      "layout": "normal",
+      "manaCost": "{2}{R}{R}",
+      "mciNumber": "43",
+      "multiverseid": 430582,
+      "name": "Chandra's Outrage",
+      "number": "43",
+      "rarity": "Common",
+      "text": "Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Aleksi Briclot",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "a4fe3038be44774d3eeb65e80687afc7dcc30c2a",
+      "imageName": "chandra's phoenix",
+      "layout": "normal",
+      "manaCost": "{1}{R}{R}",
+      "mciNumber": "44",
+      "multiverseid": 430583,
+      "name": "Chandra's Phoenix",
+      "number": "44",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Phoenix"
+      ],
+      "text": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.",
+      "toughness": "2",
+      "type": "Creature — Phoenix",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "John Severin Brassell",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "It's hard to shout \"Shields up!\" with a javelin in your chest.",
+      "id": "c17a2e3fd8bc0d7ee28dad3d761018f6e3cdca51",
+      "imageName": "coordinated assault",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "45",
+      "multiverseid": 430584,
+      "name": "Coordinated Assault",
+      "number": "45",
+      "rarity": "Uncommon",
+      "text": "Up to two target creatures each get +1/+0 and gain first strike until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"It has been my experience that disasters like to strike in pairs.\"",
+      "id": "d4ae9ec4464cc03d156371238db7a195e0abcd35",
+      "imageName": "dualcaster mage",
+      "layout": "normal",
+      "manaCost": "{1}{R}{R}",
+      "mciNumber": "46",
+      "multiverseid": 430585,
+      "name": "Dualcaster Mage",
+      "number": "46",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "Flash\nWhen Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.",
+      "toughness": "2",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "17830ee80461d6c8afd513a1e32dd1fb9d46ce93",
+      "imageName": "fiery fall",
+      "layout": "normal",
+      "manaCost": "{5}{R}",
+      "mciNumber": "47",
+      "multiverseid": 430586,
+      "name": "Fiery Fall",
+      "number": "47",
+      "rarity": "Common",
+      "text": "Fiery Fall deals 5 damage to target creature.\nBasic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"For dim-witted, thick-skulled genetic mutants, they have pretty good aim.\"\n—Sisay, captain of the Weatherlight",
+      "id": "b2008d417fdec25447b578c0f0c0216316535115",
+      "imageName": "flametongue kavu",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "mciNumber": "48",
+      "multiverseid": 430587,
+      "name": "Flametongue Kavu",
+      "number": "48",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Kavu"
+      ],
+      "text": "When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.",
+      "toughness": "2",
+      "type": "Creature — Kavu",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Some of the eleven minotaur clans of Mirtiin are expert crafters and learned philosophers. Others just like to hit stuff.",
+      "id": "51ae84358b02827ba64ba9650fd9e334219a629d",
+      "imageName": "gorehorn minotaurs",
+      "layout": "normal",
+      "manaCost": "{2}{R}{R}",
+      "mciNumber": "49",
+      "multiverseid": 430588,
+      "name": "Gorehorn Minotaurs",
+      "number": "49",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Minotaur",
+        "Warrior"
+      ],
+      "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)",
+      "toughness": "3",
+      "type": "Creature — Minotaur Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Michael Sutfin",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper.\"",
+      "id": "868a0a409acb96e639acdce274a9906370836384",
+      "imageName": "grim lavamancer",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "50",
+      "multiverseid": 430589,
+      "name": "Grim Lavamancer",
+      "number": "50",
+      "power": "1",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target.",
+      "toughness": "1",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "He wants to watch Ravnica burn, one soul at a time.",
+      "id": "a859c4b1891d31d6a9213b300e6619fb2cbbfdf6",
+      "imageName": "guttersnipe",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "mciNumber": "51",
+      "multiverseid": 430590,
+      "name": "Guttersnipe",
+      "number": "51",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "text": "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",
+      "toughness": "2",
+      "type": "Creature — Goblin Shaman",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Tomasz Jedruszek",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "5473c9c95667c613b8b58fe4856677f0ac1996b0",
+      "imageName": "hammerhand",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "52",
+      "multiverseid": 430591,
+      "name": "Hammerhand",
+      "number": "52",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nWhen Hammerhand enters the battlefield, target creature can't block this turn.\nEnchanted creature gets +1/+1 and has haste. (It can attack and {T} no matter when it came under your control.)",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "030477131d56eb06a782d0ea91994b9a701b6d79",
+      "imageName": "inferno titan",
+      "layout": "normal",
+      "manaCost": "{4}{R}{R}",
+      "mciNumber": "53",
+      "multiverseid": 430592,
+      "name": "Inferno Titan",
+      "number": "53",
+      "power": "6",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Giant"
+      ],
+      "text": "{R}: Inferno Titan gets +1/+0 until end of turn.\nWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.",
+      "toughness": "6",
+      "type": "Creature — Giant",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The sparkmage shrieked, calling on the rage of the storms of his youth. To his surprise, the sky responded with a fierce energy he'd never thought to see again.",
+      "id": "af4f7a1c1539a0f2bee2f774b82c294c4f503d4a",
+      "imageName": "lightning bolt",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "54",
+      "multiverseid": 430593,
+      "name": "Lightning Bolt",
+      "number": "54",
+      "rarity": "Uncommon",
+      "text": "Lightning Bolt deals 3 damage to any target.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "fa1668d9750b2e69abc6755977cee5c7e81330d6",
+      "imageName": "obsidian fireheart",
+      "layout": "normal",
+      "manaCost": "{1}{R}{R}{R}",
+      "mciNumber": "55",
+      "multiverseid": 430594,
+      "name": "Obsidian Fireheart",
+      "number": "55",
+      "power": "4",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has \"At the beginning of your upkeep, this land deals 1 damage to you.\" (The land continues to burn after Obsidian Fireheart has left the battlefield.)",
+      "toughness": "4",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Sometimes you die a glorious death with your sword held high. Sometimes you're just target practice.",
+      "id": "31fa5e7475fb7798934c8b93d5a360ae528b768d",
+      "imageName": "searing spear",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "mciNumber": "56",
+      "multiverseid": 430595,
+      "name": "Searing Spear",
+      "number": "56",
+      "rarity": "Common",
+      "text": "Searing Spear deals 3 damage to any target.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "46c029dc43c00e5cb0bbe82574197839f1a3a031",
+      "imageName": "skarrgan firebird",
+      "layout": "normal",
+      "manaCost": "{4}{R}{R}",
+      "mciNumber": "57",
+      "multiverseid": 430596,
+      "name": "Skarrgan Firebird",
+      "number": "57",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Phoenix"
+      ],
+      "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying\n{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.",
+      "toughness": "3",
+      "type": "Creature — Phoenix",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Min Yum",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Blood is holy to those whose god is War.",
+      "id": "3a07bb95b00369c3bac982067f7a209f519a4843",
+      "imageName": "stormblood berserker",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "mciNumber": "58",
+      "multiverseid": 430597,
+      "name": "Stormblood Berserker",
+      "number": "58",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Berserker"
+      ],
+      "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nMenace (This creature can't be blocked except by two or more creatures.)",
+      "toughness": "1",
+      "type": "Creature — Human Berserker",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "In the Skyfang Mountains, one misstep can mean the end of an entire clan.",
+      "id": "e4c162fc0b4332b064b50f02411ec59ee8760844",
+      "imageName": "sudden demise",
+      "layout": "normal",
+      "manaCost": "{X}{R}",
+      "mciNumber": "59",
+      "multiverseid": 430598,
+      "name": "Sudden Demise",
+      "number": "59",
+      "rarity": "Rare",
+      "text": "Choose a color. Sudden Demise deals X damage to each creature of the chosen color.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "rk post",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "89cb8e00596481d570a0e16317202023ef9d0834",
+      "imageName": "torchling",
+      "layout": "normal",
+      "manaCost": "{3}{R}{R}",
+      "mciNumber": "60",
+      "multiverseid": 430599,
+      "name": "Torchling",
+      "number": "60",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "text": "{R}: Untap Torchling.\n{R}: Target creature blocks Torchling this turn if able.\n{R}: Change the target of target spell that targets only Torchling.\n{1}: Torchling gets +1/-1 until end of turn.\n{1}: Torchling gets -1/+1 until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Shapeshifter",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"The common folk call it the breaking of the crust or the spilling of fire. Geomancers call it target practice.\"\n—Ryda, geomancer",
+      "id": "a622f5e0b7e2942c6578067eb395fe16d9aad210",
+      "imageName": "volcanic geyser",
+      "layout": "normal",
+      "manaCost": "{X}{R}{R}",
+      "mciNumber": "61",
+      "multiverseid": 430600,
+      "name": "Volcanic Geyser",
+      "number": "61",
+      "rarity": "Uncommon",
+      "text": "Volcanic Geyser deals X damage to any target.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Anthony Palumbo",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "All seeds share a common bond, calling to each other across infinity.",
+      "id": "2a59e25e6afe53af6188623ae27a15f5057af1ad",
+      "imageName": "cultivate",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "mciNumber": "62",
+      "multiverseid": 430601,
+      "name": "Cultivate",
+      "number": "62",
+      "rarity": "Common",
+      "text": "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "An explorer's reward is a view of tomorrow's possibilities.",
+      "id": "3c6f035f41afb62f6099fa251317dd35ec8b13af",
+      "imageName": "explore",
+      "layout": "normal",
+      "manaCost": "{1}{G}",
+      "mciNumber": "63",
+      "multiverseid": 430602,
+      "name": "Explore",
+      "number": "63",
+      "rarity": "Common",
+      "text": "You may play an additional land this turn.\nDraw a card.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "17834df5fade3d5696665b47a2592cafaf0940e6",
+      "imageName": "fertilid",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "mciNumber": "64",
+      "multiverseid": 430603,
+      "name": "Fertilid",
+      "number": "64",
+      "power": "0",
+      "rarity": "Common",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Fertilid enters the battlefield with two +1/+1 counters on it.\n{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library.",
+      "toughness": "0",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mark Tedin",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Its blood is life. Its body is growth.",
+      "id": "5af706f62c8902028732642fd85a75d27f8c28f1",
+      "imageName": "forgotten ancient",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "mciNumber": "65",
+      "multiverseid": 430604,
+      "name": "Forgotten Ancient",
+      "number": "65",
+      "power": "0",
+      "rarity": "Rare",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.",
+      "toughness": "3",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Greg Staples",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "To be counted among the warriors of Setessa's Leina Tower, you must not fear death, only failure.",
+      "id": "43fd57315226aa2b04b199a09ff826ab501ea1a5",
+      "imageName": "hunter's prowess",
+      "layout": "normal",
+      "manaCost": "{4}{G}",
+      "mciNumber": "66",
+      "multiverseid": 430605,
+      "name": "Hunter's Prowess",
+      "number": "66",
+      "rarity": "Rare",
+      "text": "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\"",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Jason Chan",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "7d9f1094934f0a01aaa9d1111bad61ccdf7026ba",
+      "imageName": "khalni heart expedition",
+      "layout": "normal",
+      "manaCost": "{1}{G}",
+      "mciNumber": "67",
+      "multiverseid": 430606,
+      "name": "Khalni Heart Expedition",
+      "number": "67",
+      "rarity": "Common",
+      "text": "Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.\nRemove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "d0875ad9721a1728b1eebec532661ccc5e14f662",
+      "imageName": "nissa, worldwaker",
+      "layout": "normal",
+      "loyalty": 3,
+      "manaCost": "{3}{G}{G}",
+      "mciNumber": "68",
+      "multiverseid": 430607,
+      "name": "Nissa, Worldwaker",
+      "number": "68",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Nissa"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.\n+1: Untap up to four target Forests.\n−7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.",
+      "type": "Legendary Planeswalker — Nissa",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "d711f55cea2035b52bfd25ad6d0fdd48a46b56bf",
+      "imageName": "oran-rief hydra",
+      "layout": "normal",
+      "manaCost": "{4}{G}{G}",
+      "mciNumber": "69",
+      "multiverseid": 430608,
+      "name": "Oran-Rief Hydra",
+      "number": "69",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Hydra"
+      ],
+      "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Oran-Rief Hydra. If that land is a Forest, put two +1/+1 counters on Oran-Rief Hydra instead.",
+      "toughness": "5",
+      "type": "Creature — Hydra",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Marco Nelor",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"Show your enemies as much mercy as they would show you.\"\n—Surrak, the Hunt Caller",
+      "id": "1d84fe63757fba061d9e6366f344922612aa8a32",
+      "imageName": "press the advantage",
+      "layout": "normal",
+      "manaCost": "{2}{G}{G}",
+      "mciNumber": "70",
+      "multiverseid": 430609,
+      "name": "Press the Advantage",
+      "number": "70",
+      "rarity": "Uncommon",
+      "text": "Up to two target creatures each get +2/+2 and gain trample until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"When the land is angry, so are they.\"\n—Nissa Revane",
+      "id": "ab074b20824997e1530d4528cb4d5ef0791335da",
+      "imageName": "rampaging baloths",
+      "layout": "normal",
+      "manaCost": "{4}{G}{G}",
+      "mciNumber": "71",
+      "multiverseid": 430610,
+      "name": "Rampaging Baloths",
+      "number": "71",
+      "power": "6",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, you may create a 4/4 green Beast creature token.",
+      "toughness": "6",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Kieran Yanner",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "db95ec77b8d4123adfa10ad3d001894d42a81421",
+      "imageName": "retreat to kazandu",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "mciNumber": "72",
+      "multiverseid": 430611,
+      "name": "Retreat to Kazandu",
+      "number": "72",
+      "rarity": "Uncommon",
+      "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Put a +1/+1 counter on target creature.\n• You gain 2 life.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"Survival rule 781: There are always more scute bugs.\"\n—Zurdi, goblin shortcutter",
+      "id": "c9e5b698d1ecdb48a32db79958650dcf4fcf00df",
+      "imageName": "scute mob",
+      "layout": "normal",
+      "manaCost": "{G}",
+      "mciNumber": "73",
+      "multiverseid": 430612,
+      "name": "Scute Mob",
+      "number": "73",
+      "power": "1",
+      "rarity": "Rare",
+      "subtypes": [
+        "Insect"
+      ],
+      "text": "At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.",
+      "toughness": "1",
+      "type": "Creature — Insect",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "fd4e03fb221ed4a2d7edb04df6ceaabd644f535d",
+      "imageName": "sylvan bounty",
+      "layout": "normal",
+      "manaCost": "{5}{G}",
+      "mciNumber": "74",
+      "multiverseid": 430613,
+      "name": "Sylvan Bounty",
+      "number": "74",
+      "rarity": "Common",
+      "text": "Target player gains 8 life.\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"Always carry two spears.\"\n—Mokgar, Kalonian hunter",
+      "id": "bf93ec2d4fc674b142669dacf6cbe58e87adf369",
+      "imageName": "thragtusk",
+      "layout": "normal",
+      "manaCost": "{4}{G}",
+      "mciNumber": "75",
+      "multiverseid": 430614,
+      "name": "Thragtusk",
+      "number": "75",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "When Thragtusk enters the battlefield, you gain 5 life.\nWhen Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.",
+      "toughness": "3",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Goran Josic",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "50c61bb65f3135a51d403d7df2f4da5cfa72e9b6",
+      "imageName": "turntimber basilisk",
+      "layout": "normal",
+      "manaCost": "{1}{G}{G}",
+      "mciNumber": "76",
+      "multiverseid": 430615,
+      "name": "Turntimber Basilisk",
+      "number": "76",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Basilisk"
+      ],
+      "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLandfall — Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.",
+      "toughness": "1",
+      "type": "Creature — Basilisk",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Rob Alexander",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "13abb9f683daaee79466fa75aa0e9cb4a5b4b5df",
+      "imageName": "vastwood zendikon",
+      "layout": "normal",
+      "manaCost": "{4}{G}",
+      "mciNumber": "77",
+      "multiverseid": 430616,
+      "name": "Vastwood Zendikon",
+      "number": "77",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant land\nEnchanted land is a 6/4 green Elemental creature. It's still a land.\nWhen enchanted land dies, return that card to its owner's hand.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"The most elegant solutions are found in nature. You just have to know where to look.\"",
+      "id": "992c28b0f17572717b40a9559784e90888e3eb2e",
+      "imageName": "vines of the recluse",
+      "layout": "normal",
+      "manaCost": "{G}",
+      "mciNumber": "78",
+      "multiverseid": 430617,
+      "name": "Vines of the Recluse",
+      "number": "78",
+      "rarity": "Common",
+      "text": "Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A creature with reach can block creatures with flying.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "It carries the hopes of Zendikar's embattled wilds on its mighty boughs.",
+      "id": "183524411b2d7b1c955e4674d39d5813ca83a8b2",
+      "imageName": "woodborn behemoth",
+      "layout": "normal",
+      "manaCost": "{3}{G}{G}",
+      "mciNumber": "79",
+      "multiverseid": 430618,
+      "name": "Woodborn Behemoth",
+      "number": "79",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)",
+      "toughness": "4",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "Its beak rends flesh and bone, exposing the tender marrow of dream.",
+      "id": "5e9dea9173c108e60d88d5c03fcee9f3d7b7345e",
+      "imageName": "baleful strix",
+      "layout": "normal",
+      "manaCost": "{U}{B}",
+      "mciNumber": "80",
+      "multiverseid": 430619,
+      "name": "Baleful Strix",
+      "number": "80",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Bird"
+      ],
+      "text": "Flying, deathtouch\nWhen Baleful Strix enters the battlefield, draw a card.",
+      "toughness": "1",
+      "type": "Artifact Creature — Bird",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 7,
+      "colorIdentity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "id": "5aca574227bcee29a63232fe88db4a76d3bdd863",
+      "imageName": "blood tyrant",
+      "layout": "normal",
+      "manaCost": "{4}{U}{B}{R}",
+      "mciNumber": "81",
+      "multiverseid": 430620,
+      "name": "Blood Tyrant",
+      "number": "81",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Vampire"
+      ],
+      "text": "Flying, trample\nAt the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.\nWhenever a player loses the game, put five +1/+1 counters on Blood Tyrant.",
+      "toughness": "5",
+      "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Todd Lockwood",
+      "cmc": 7,
+      "colorIdentity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "flavor": "There is always a greater power.",
+      "id": "e5fe060a1f4b508f94cdca171e4d64ec5546e277",
+      "imageName": "cruel ultimatum",
+      "layout": "normal",
+      "manaCost": "{U}{U}{B}{B}{B}{R}{R}",
+      "mciNumber": "82",
+      "multiverseid": 430621,
+      "name": "Cruel Ultimatum",
+      "number": "82",
+      "rarity": "Rare",
+      "text": "Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "flavor": "In Rakdos-controlled neighborhoods, everyone is part of the show.",
+      "id": "776d38615fd798a666c3da9ed0be98b3d2950e44",
+      "imageName": "dreadbore",
+      "layout": "normal",
+      "manaCost": "{B}{R}",
+      "mciNumber": "83",
+      "multiverseid": 430622,
+      "name": "Dreadbore",
+      "number": "83",
+      "rarity": "Rare",
+      "text": "Destroy target creature or planeswalker.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Dallas Williams",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "If you want to wreak havoc above, sometimes it's best to look below.",
+      "id": "617ec6dda56c0084e7989c8495bcf4344dfb3506",
+      "imageName": "extract from darkness",
+      "layout": "normal",
+      "manaCost": "{3}{U}{B}",
+      "mciNumber": "84",
+      "multiverseid": 430623,
+      "name": "Extract from Darkness",
+      "number": "84",
+      "rarity": "Uncommon",
+      "text": "Each player puts the top two cards of their library into their graveyard. Then you put a creature card from a graveyard onto the battlefield under your control.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 8,
+      "colorIdentity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "id": "39ba84ab630f25467713d79c819bdad0c74cdfc2",
+      "imageName": "nicol bolas, planeswalker",
+      "layout": "normal",
+      "loyalty": 5,
+      "manaCost": "{4}{U}{B}{B}{R}",
+      "mciNumber": "85",
+      "multiverseid": 430624,
+      "name": "Nicol Bolas, Planeswalker",
+      "number": "85",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Bolas"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.\n−9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.",
+      "type": "Legendary Planeswalker — Bolas",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "flavor": "Nicol Bolas doesn't distinguish between servants and victims.",
+      "id": "4815c056cedbed25ee533a2cd34a80237e01a029",
+      "imageName": "slave of bolas",
+      "layout": "normal",
+      "manaCost": "{3}{U/R}{B}",
+      "mciNumber": "86",
+      "multiverseid": 430625,
+      "name": "Slave of Bolas",
+      "number": "86",
+      "rarity": "Uncommon",
+      "text": "Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 4,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "id": "7dce28cc44977bafd7a7910879470097fe8559a4",
+      "imageName": "soul ransom",
+      "layout": "normal",
+      "manaCost": "{2}{U}{B}",
+      "mciNumber": "87",
+      "multiverseid": 430626,
+      "name": "Soul Ransom",
+      "number": "87",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nYou control enchanted creature.\nDiscard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "flavor": "Like most features of Grixis, the obelisks that remain from the time of Alara now exist only for dark exploitation.",
+      "id": "9b9feb3aa4572b7f1504a29c689ba495538c2c44",
+      "imageName": "obelisk of grixis",
+      "layout": "normal",
+      "manaCost": "{3}",
+      "mciNumber": "88",
+      "multiverseid": 430627,
+      "name": "Obelisk of Grixis",
+      "number": "88",
+      "rarity": "Common",
+      "text": "{T}: Add {U}, {B}, or {R}.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Daniel Ljunggren",
+      "cmc": 2,
+      "flavor": "The blade glows only for Zendikar's chosen.",
+      "id": "bb002bcf8c810957e5bd556e8fee4245f9a94f82",
+      "imageName": "sword of the animist",
+      "layout": "normal",
+      "manaCost": "{2}",
+      "mciNumber": "89",
+      "multiverseid": 430628,
+      "name": "Sword of the Animist",
+      "number": "89",
+      "rarity": "Rare",
+      "subtypes": [
+        "Equipment"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Equipped creature gets +1/+1.\nWhenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.\nEquip {2}",
+      "type": "Legendary Artifact — Equipment",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Mike Dringenberg",
+      "cmc": 2,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "id": "d8154144ead7a5a4a4d2704266f9ed9dcb78a474",
+      "imageName": "talisman of dominance",
+      "layout": "normal",
+      "manaCost": "{2}",
+      "mciNumber": "90",
+      "multiverseid": 430629,
+      "name": "Talisman of Dominance",
+      "number": "90",
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. Talisman of Dominance deals 1 damage to you.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Mike Dringenberg",
+      "cmc": 2,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "id": "973d0190ca06870118ce1f822f60793b06322731",
+      "imageName": "talisman of indulgence",
+      "layout": "normal",
+      "manaCost": "{2}",
+      "mciNumber": "91",
+      "multiverseid": 430630,
+      "name": "Talisman of Indulgence",
+      "number": "91",
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Talisman of Indulgence deals 1 damage to you.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Dave Kendall",
+      "cmc": 0,
+      "colorIdentity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "flavor": "\"They say the ruins of Sedraxis were once a shining capital in Vithia. Now it is a blight, a place to be avoided by the living.\"\n—Olcot, Rider of Joffik",
+      "id": "a8dfe4059db2bd47630f2dc038e674aad85e5c79",
+      "imageName": "crumbling necropolis",
+      "layout": "normal",
+      "mciNumber": "92",
+      "multiverseid": 430631,
+      "name": "Crumbling Necropolis",
+      "number": "92",
+      "rarity": "Uncommon",
+      "text": "Crumbling Necropolis enters the battlefield tapped.\n{T}: Add {U}, {B}, or {R}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Jon Foster",
+      "cmc": 0,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "id": "ee7e500f6d6167d540181f0c6bc3d2ff3a856591",
+      "imageName": "dragonskull summit",
+      "layout": "normal",
+      "mciNumber": "93",
+      "multiverseid": 430632,
+      "name": "Dragonskull Summit",
+      "number": "93",
+      "rarity": "Rare",
+      "text": "Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Dave Kendall",
+      "cmc": 0,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "id": "a91162fae6634dfd54e2a51db79e6c0f448e1c1a",
+      "imageName": "drowned catacomb",
+      "layout": "normal",
+      "mciNumber": "94",
+      "multiverseid": 430633,
+      "name": "Drowned Catacomb",
+      "number": "94",
+      "rarity": "Rare",
+      "text": "Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 0,
+      "flavor": "There is no height above Grixis that is free from the stench of death.",
+      "id": "0ccd95335c8548554f308c7a50508d6651b16983",
+      "imageName": "grixis panorama",
+      "layout": "normal",
+      "mciNumber": "95",
+      "multiverseid": 430634,
+      "name": "Grixis Panorama",
+      "number": "95",
+      "rarity": "Common",
+      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Rob Alexander",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "d35512af73b85adb9cc5e76cdbe5981d48fbafad",
+      "imageName": "smoldering spires",
+      "layout": "normal",
+      "mciNumber": "96",
+      "multiverseid": 430635,
+      "name": "Smoldering Spires",
+      "number": "96",
+      "rarity": "Common",
+      "text": "Smoldering Spires enters the battlefield tapped.\nWhen Smoldering Spires enters the battlefield, target creature can't block this turn.\n{T}: Add {R}.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "id": "7c767c81215c4e41d275901b099fab4480e9ab56",
+      "imageName": "plains2",
+      "layout": "normal",
+      "multiverseid": 430636,
+      "name": "Plains",
+      "number": "97",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430641
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "2d32c68f721ba5f058cc0db78b4c40c718917f64",
+      "imageName": "island2",
+      "layout": "normal",
+      "multiverseid": 430637,
+      "name": "Island",
+      "number": "98",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430642
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "id": "f140ab52ee7cd08554fd9dcf49a32736ef17a861",
+      "imageName": "swamp2",
+      "layout": "normal",
+      "multiverseid": 430638,
+      "name": "Swamp",
+      "number": "99",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430643
+      ],
+      "watermark": "Black"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "4c47ec4bf730bd613066220e81dd889b37928426",
+      "imageName": "mountain1",
+      "layout": "normal",
+      "multiverseid": 430639,
+      "name": "Mountain",
+      "number": "100",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430644
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "id": "2f2592c854b72bc0d525683d9408e7394b0f1f74",
+      "imageName": "forest1",
+      "layout": "normal",
+      "multiverseid": 430640,
+      "name": "Forest",
+      "number": "101",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430645
+      ],
+      "watermark": "Green"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "W"
+      ],
+      "id": "c22cf76d884fd7c2157a397bd44a9b673cc6197c",
+      "imageName": "plains1",
+      "layout": "normal",
+      "multiverseid": 430641,
+      "name": "Plains",
+      "number": "102",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430636
+      ],
+      "watermark": "White"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "be6e69e7cc78b4e5630bf93623b2bdeb2c741c97",
+      "imageName": "island1",
+      "layout": "normal",
+      "multiverseid": 430642,
+      "name": "Island",
+      "number": "103",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430637
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "B"
+      ],
+      "id": "1246cb16d344df0b02ff6eb86cbcc07ee1e0c566",
+      "imageName": "swamp1",
+      "layout": "normal",
+      "multiverseid": 430643,
+      "name": "Swamp",
+      "number": "104",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430638
+      ],
+      "watermark": "Black"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "3f058d8725c696029bb8b1457973708d5f6db2e3",
+      "imageName": "mountain2",
+      "layout": "normal",
+      "multiverseid": 430644,
+      "name": "Mountain",
+      "number": "105",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430639
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Christine Choi",
+      "cmc": 0,
+      "colorIdentity": [
+        "G"
+      ],
+      "id": "7301494050b6ec2e078b78b0f2f85b2832391dab",
+      "imageName": "forest2",
+      "layout": "normal",
+      "multiverseid": 430645,
+      "name": "Forest",
+      "number": "106",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        430640
+      ],
+      "watermark": "Green"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Magic 2015 Clash Pack",
+  "code": "CP1",
+  "magicCardsInfoCode": "clash",
+  "releaseDate": "2014-07-18",
+  "border": "black",
+  "type": "starter",
+  "cards": [
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "11ff5bca85b8593fd318173d765198c3f70496f9",
+      "imageName": "prognostic sphinx",
+      "layout": "normal",
+      "manaCost": "{3}{U}{U}",
+      "mciNumber": "1",
+      "name": "Prognostic Sphinx",
+      "number": "1",
+      "power": "3",
+      "rarity": "Special",
+      "subtypes": [
+        "Sphinx"
+      ],
+      "text": "Flying\nDiscard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.\nWhenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+      "toughness": "5",
+      "type": "Creature — Sphinx",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "6b865b19113a3588bf5085f53e04ec47037b74ee",
+      "imageName": "fated intervention",
+      "layout": "normal",
+      "manaCost": "{2}{G}{G}{G}",
+      "mciNumber": "2",
+      "name": "Fated Intervention",
+      "number": "2",
+      "rarity": "Special",
+      "text": "Create two 3/3 green Centaur enchantment creature tokens. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jung Park",
+      "cmc": 1,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Drink deep, and know the path to the heart of the wilds.",
+      "id": "b329ae81dcecc2c85b6393d3de900ab909b03ca6",
+      "imageName": "font of fertility",
+      "layout": "normal",
+      "manaCost": "{G}",
+      "mciNumber": "3",
+      "name": "Font of Fertility",
+      "number": "3",
+      "rarity": "Special",
+      "text": "{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Vincent Proce",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "de93ba83d807f4c65811e052209aa6ec85237e48",
+      "imageName": "hydra broodmaster",
+      "layout": "normal",
+      "manaCost": "{4}{G}{G}",
+      "mciNumber": "4",
+      "name": "Hydra Broodmaster",
+      "number": "4",
+      "power": "7",
+      "rarity": "Special",
+      "subtypes": [
+        "Hydra"
+      ],
+      "text": "{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature tokens.",
+      "toughness": "7",
+      "type": "Creature — Hydra",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Anastasia Ovchinnikova",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "\"Time is fluid as a dance, and truth as fleeting.\"",
+      "id": "92fbb08d48cccaf7951c38726adb993c7ae22d9b",
+      "imageName": "prophet of kruphix",
+      "layout": "normal",
+      "manaCost": "{3}{G}{U}",
+      "mciNumber": "5",
+      "name": "Prophet of Kruphix",
+      "number": "5",
+      "power": "2",
+      "rarity": "Special",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash.",
+      "toughness": "3",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Adam Paquette",
+      "cmc": 0,
+      "colorIdentity": [
+        "G",
+        "U"
+      ],
+      "id": "6df84c68eb368285ee8dba17f550d26446a90eb9",
+      "imageName": "temple of mystery",
+      "layout": "normal",
+      "mciNumber": "6",
+      "name": "Temple of Mystery",
+      "number": "6",
+      "rarity": "Special",
+      "text": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {U} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    }
+  ]
+}

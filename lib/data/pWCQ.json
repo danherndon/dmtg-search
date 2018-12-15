@@ -1,0 +1,171 @@
+{
+  "name": "World Magic Cup Qualifiers",
+  "code": "pWCQ",
+  "magicCardsInfoCode": "wmcq",
+  "magicRaritiesCodes": [
+    "780-rarities-world-magic-cup-qualifiers-promos"
+  ],
+  "releaseDate": "2013-04-06",
+  "border": "black",
+  "type": "promo",
+  "cards": [
+    {
+      "artist": "Trevor Claxton",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Leave but a shred of root and it will return, bursting with vigor.",
+      "id": "40b94b420620d3c5c7a9256460af45507b0ad440",
+      "imageName": "vengevine",
+      "layout": "normal",
+      "manaCost": "{2}{G}{G}",
+      "mciNumber": "1",
+      "name": "Vengevine",
+      "number": "1",
+      "power": "4",
+      "rarity": "Special",
+      "releaseDate": "2013",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.",
+      "toughness": "3",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "id": "4451913fded84d5de83ff2441add1559055f9d13",
+      "imageName": "geist of saint traft",
+      "layout": "normal",
+      "manaCost": "{1}{W}{U}",
+      "mciNumber": "2",
+      "name": "Geist of Saint Traft",
+      "number": "2",
+      "power": "2",
+      "rarity": "Special",
+      "releaseDate": "2014",
+      "subtypes": [
+        "Spirit",
+        "Cleric"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+      "toughness": "2",
+      "type": "Legendary Creature — Spirit Cleric",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Thraben is our home and I will not see it fall to this unhallowed horde.\"",
+      "id": "6ccc9891f76711125239109990aea249c53a91f4",
+      "imageName": "thalia, guardian of thraben",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "mciNumber": "3",
+      "name": "Thalia, Guardian of Thraben",
+      "number": "3",
+      "power": "2",
+      "rarity": "Special",
+      "releaseDate": "2015",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "First strike\nNoncreature spells cost {1} more to cast.",
+      "toughness": "1",
+      "type": "Legendary Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "deaab81889362d156eb6fe190a49bb27d4858cd6",
+      "imageName": "liliana of the veil",
+      "layout": "normal",
+      "loyalty": 3,
+      "manaCost": "{1}{B}{B}",
+      "mciNumber": "4",
+      "name": "Liliana of the Veil",
+      "number": "4",
+      "rarity": "Special",
+      "subtypes": [
+        "Liliana"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.",
+      "type": "Legendary Planeswalker — Liliana",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Joseph Meehan",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "4f5c2cc0802213405529455dbfc76563b3fc5267",
+      "imageName": "snapcaster mage",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "mciNumber": "5",
+      "name": "Snapcaster Mage",
+      "number": "5",
+      "power": "2",
+      "rarity": "Special",
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "text": "Flash\nWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",
+      "toughness": "1",
+      "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "name": "Fate Reforged Clash Pack",
+  "code": "CP2",
+  "magicCardsInfoCode": "clash",
+  "releaseDate": "2015-01-23",
+  "border": "black",
+  "type": "starter",
+  "cards": [
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 9,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "53e7ab6426ac6ac6663bfa97bb8577e94ec66cb4",
+      "imageName": "necropolis fiend",
+      "layout": "normal",
+      "manaCost": "{7}{B}{B}",
+      "mciNumber": "7",
+      "name": "Necropolis Fiend",
+      "number": "1",
+      "power": "4",
+      "rarity": "Special",
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",
+      "toughness": "5",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Johannes Voss",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Destiny exalts a chosen few, but even heroes break.",
+      "id": "b635e984b82e4db946e5bba6c99c8e26d0009d7d",
+      "imageName": "hero's downfall",
+      "layout": "normal",
+      "manaCost": "{1}{B}{B}",
+      "mciNumber": "8",
+      "name": "Hero's Downfall",
+      "number": "2",
+      "rarity": "Special",
+      "text": "Destroy target creature or planeswalker.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "id": "39e8a45a9fa49a198eeed4ddb312985d87c87cf5",
+      "imageName": "sultai ascendacy",
+      "layout": "normal",
+      "manaCost": "{U}{B}{G}",
+      "mciNumber": "9",
+      "name": "Sultai Ascendacy",
+      "number": "3",
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Jeff Simpson",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "id": "079ee99a7ecb22374fec5933185714d6277620ce",
+      "imageName": "reaper of the wilds",
+      "layout": "normal",
+      "manaCost": "{2}{B}{G}",
+      "mciNumber": "10",
+      "name": "Reaper of the Wilds",
+      "number": "4",
+      "power": "4",
+      "rarity": "Special",
+      "subtypes": [
+        "Gorgon"
+      ],
+      "text": "Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{B}: Reaper of the Wilds gains deathtouch until end of turn.\n{1}{G}: Reaper of the Wilds gains hexproof until end of turn.",
+      "toughness": "5",
+      "type": "Creature — Gorgon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Marco Nelor",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "72e24931faf9919bd50f896a119fd41742d78eb8",
+      "imageName": "whip of erebos",
+      "layout": "normal",
+      "manaCost": "{2}{B}{B}",
+      "mciNumber": "11",
+      "name": "Whip of Erebos",
+      "number": "5",
+      "rarity": "Special",
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.",
+      "type": "Legendary Enchantment Artifact",
+      "types": [
+        "Enchantment",
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "e2e7eaa12f566c5c1461b2b61dd249a6ab7eaee3",
+      "imageName": "courser of kruphix",
+      "layout": "normal",
+      "manaCost": "{1}{G}{G}",
+      "mciNumber": "12",
+      "name": "Courser of Kruphix",
+      "number": "6",
+      "power": "2",
+      "rarity": "Special",
+      "subtypes": [
+        "Centaur"
+      ],
+      "text": "Play with the top card of your library revealed.\nYou may play the top card of your library if it's a land card.\nWhenever a land enters the battlefield under your control, you gain 1 life.",
+      "toughness": "4",
+      "type": "Enchantment Creature — Centaur",
+      "types": [
+        "Enchantment",
+        "Creature"
+      ]
+    }
+  ]
+}

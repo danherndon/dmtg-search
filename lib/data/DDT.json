@@ -1,0 +1,1774 @@
+{
+  "name": "Duel Decks: Merfolk vs. Goblins",
+  "code": "DDT",
+  "magicCardsInfoCode": "ddt",
+  "releaseDate": "2017-11-10",
+  "type": "duel deck",
+  "border": "black",
+  "cards": [
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "79e4f0cff7ff3fffec262106f8fd235bbf0c33c0",
+      "imageName": "master of waves",
+      "layout": "normal",
+      "manaCost": "{3}{U}",
+      "mciNumber": "1",
+      "multiverseid": 438441,
+      "name": "Master of Waves",
+      "number": "1",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "text": "Protection from red\nElemental creatures you control get +1/+1.\nWhen Master of Waves enters the battlefield, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "toughness": "1",
+      "type": "Creature — Merfolk Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Dimitar",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"You may want to hold your breath.\"\n—Kellyg, merrow aquitect",
+      "id": "424c38c656582dc11a7f826281a7b531b4dca967",
+      "imageName": "aquitect's will",
+      "layout": "normal",
+      "manaCost": "{U}",
+      "mciNumber": "2",
+      "multiverseid": 438442,
+      "name": "Aquitect's Will",
+      "number": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card.",
+      "type": "Tribal Sorcery — Merfolk",
+      "types": [
+        "Tribal",
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Ryan Pancoast",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Six feet of earth muffled his cries.",
+      "id": "fe530c712fdf0379dc7d088bc842309b66b93403",
+      "imageName": "claustrophobia",
+      "layout": "normal",
+      "manaCost": "{1}{U}{U}",
+      "mciNumber": "3",
+      "multiverseid": 438443,
+      "name": "Claustrophobia",
+      "number": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "rk post",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The treasure in my mind is greater than any worldly glory.\"",
+      "id": "7489b7277e8be81cbd276a55c007cd794b820cb4",
+      "imageName": "concentrate",
+      "layout": "normal",
+      "manaCost": "{2}{U}{U}",
+      "mciNumber": "4",
+      "multiverseid": 438444,
+      "name": "Concentrate",
+      "number": "4",
+      "rarity": "Uncommon",
+      "text": "Draw three cards.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Cliff Childs",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The tides have begun to ignore the moon.\"\n—Tamiyo's journal",
+      "id": "2bd2c743bf25ca4fd213e90c2ed81fd0cfd823bf",
+      "imageName": "engulf the shore",
+      "layout": "normal",
+      "manaCost": "{3}{U}",
+      "mciNumber": "5",
+      "multiverseid": 438445,
+      "name": "Engulf the Shore",
+      "number": "5",
+      "rarity": "Rare",
+      "text": "Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jon Foster",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"What you attempt to pull from the aether, I can spread onto the wind.\"\n—Jace Beleren",
+      "id": "a6d555885bb35bdcfee879e5be1c2b6b132e7fbb",
+      "imageName": "essence scatter",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "mciNumber": "6",
+      "multiverseid": 438446,
+      "name": "Essence Scatter",
+      "number": "6",
+      "rarity": "Common",
+      "text": "Counter target creature spell.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "b86c01e0694c83eab1d8908db3b940c3c1c1c32c",
+      "imageName": "harbinger of the tides",
+      "layout": "normal",
+      "manaCost": "{U}{U}",
+      "mciNumber": "7",
+      "multiverseid": 438447,
+      "name": "Harbinger of the Tides",
+      "number": "7",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "text": "You may cast Harbinger of the Tides as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nWhen Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.",
+      "toughness": "2",
+      "type": "Creature — Merfolk Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steven Belledin",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "613570169b8bdf5efa646f31bbd029ff9d907299",
+      "imageName": "inkfathom divers",
+      "layout": "normal",
+      "manaCost": "{3}{U}{U}",
+      "mciNumber": "8",
+      "multiverseid": 438448,
+      "name": "Inkfathom Divers",
+      "number": "8",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Merfolk",
+        "Soldier"
+      ],
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+      "toughness": "3",
+      "type": "Creature — Merfolk Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Ryan Pancoast",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Let the land dwellers know the coast is no longer the border between our realms. A new age of empire has begun.\"",
+      "id": "cadc7027d48c26246d69cd20d985d9bed893ec8a",
+      "imageName": "master of the pearl trident",
+      "layout": "normal",
+      "manaCost": "{U}{U}",
+      "mciNumber": "9",
+      "multiverseid": 438449,
+      "name": "Master of the Pearl Trident",
+      "number": "9",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+      "toughness": "2",
+      "type": "Creature — Merfolk",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Austin Hsu",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Merfolk don't always know what they're looking for, but they're certain once they find it.",
+      "id": "c2afb90e9a449a2fa8b055c516e95696af195630",
+      "imageName": "merfolk looter",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "mciNumber": "10",
+      "multiverseid": 438450,
+      "name": "Merfolk Looter",
+      "number": "10",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Merfolk",
+        "Rogue"
+      ],
+      "text": "{T}: Draw a card, then discard a card.",
+      "toughness": "1",
+      "type": "Creature — Merfolk Rogue",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Be like the sea: flow around that which is unmovable; for everything else, crash into it unrelentingly.\"",
+      "id": "f5e60ea7a78ff6a64afefd519c6b58ceb5009c14",
+      "imageName": "merfolk sovereign",
+      "layout": "normal",
+      "manaCost": "{1}{U}{U}",
+      "mciNumber": "11",
+      "multiverseid": 438451,
+      "name": "Merfolk Sovereign",
+      "number": "11",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn.",
+      "toughness": "2",
+      "type": "Creature — Merfolk",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "f9702973832c1db6ebcebd8da8abbdde168e6ad2",
+      "imageName": "merfolk wayfinder",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "12",
+      "multiverseid": 438452,
+      "name": "Merfolk Wayfinder",
+      "number": "12",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Merfolk",
+        "Scout"
+      ],
+      "text": "Flying\nWhen Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "toughness": "2",
+      "type": "Creature — Merfolk Scout",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Greg Staples",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Steady and silent as the deep current, the reejerey guides the course of the school.",
+      "id": "47c9cf3e4dc7ef41d9677f987df5d084f1699328",
+      "imageName": "merrow reejerey",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "13",
+      "multiverseid": 438453,
+      "name": "Merrow Reejerey",
+      "number": "13",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Merfolk",
+        "Soldier"
+      ],
+      "text": "Other Merfolk creatures you control get +1/+1.\nWhenever you cast a Merfolk spell, you may tap or untap target permanent.",
+      "toughness": "2",
+      "type": "Creature — Merfolk Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mark Zug",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Fragments of thought refract and multiply, surging in a geyser of dizzying insight.",
+      "id": "c4e5656a20a9fd1b2c51b5550b14e69dbcc95d71",
+      "imageName": "mind spring",
+      "layout": "normal",
+      "manaCost": "{X}{U}{U}",
+      "mciNumber": "14",
+      "multiverseid": 438454,
+      "name": "Mind Spring",
+      "number": "14",
+      "rarity": "Rare",
+      "text": "Draw X cards.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Mathias Kollros",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "a19bc8d56f838b3773d9c53e9125ae4fe32e5f82",
+      "imageName": "misdirection",
+      "layout": "normal",
+      "manaCost": "{3}{U}{U}",
+      "mciNumber": "15",
+      "multiverseid": 438455,
+      "name": "Misdirection",
+      "number": "15",
+      "rarity": "Rare",
+      "text": "You may exile a blue card from your hand rather than pay this spell's mana cost.\nChange the target of target spell with a single target.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Brom",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Bitter water, vicious wave;\nShadow-cold shallows, root-made maze.\nHome's angry embrace.\"\n—Rootwater Saga",
+      "id": "d2c8b259efd0321d317360346dfc51886f21cabc",
+      "imageName": "rootwater hunter",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "16",
+      "multiverseid": 438456,
+      "name": "Rootwater Hunter",
+      "number": "16",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "{T}: Rootwater Hunter deals 1 damage to any target.",
+      "toughness": "1",
+      "type": "Creature — Merfolk",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Alex Horley-Orlandelli",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Kapsho merfolk have infiltrated fortresses as remote as the desert citadel in Sunari in their relentless quest for arcane knowledge.",
+      "id": "9d701d70380742b7e465d589157c1904d70e094a",
+      "imageName": "scroll thief",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "17",
+      "multiverseid": 438457,
+      "name": "Scroll Thief",
+      "number": "17",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Merfolk",
+        "Rogue"
+      ],
+      "text": "Whenever Scroll Thief deals combat damage to a player, draw a card.",
+      "toughness": "3",
+      "type": "Creature — Merfolk Rogue",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "William O'Connor",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "811aa94e21a2b32d7a8d89a919fd66c46b4e20cf",
+      "imageName": "streambed aquitects",
+      "layout": "normal",
+      "manaCost": "{1}{U}{U}",
+      "mciNumber": "18",
+      "multiverseid": 438458,
+      "name": "Streambed Aquitects",
+      "number": "18",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Merfolk",
+        "Scout"
+      ],
+      "text": "{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)\n{T}: Target land becomes an Island until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Merfolk Scout",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "596d0b90cd8912195db41bb6d3345a1665c43c95",
+      "imageName": "tidal courier",
+      "layout": "normal",
+      "manaCost": "{3}{U}",
+      "mciNumber": "19",
+      "multiverseid": 438459,
+      "name": "Tidal Courier",
+      "number": "19",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "When Tidal Courier enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{3}{U}: Tidal Courier gains flying until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Merfolk",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Daren Bader",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "The tide of battle favors those who can swim.",
+      "id": "88e89542015acd9cb8b721f39c5deed9053e40a3",
+      "imageName": "tidal warrior",
+      "layout": "normal",
+      "manaCost": "{U}",
+      "mciNumber": "20",
+      "multiverseid": 438460,
+      "name": "Tidal Warrior",
+      "number": "20",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Merfolk",
+        "Warrior"
+      ],
+      "text": "{T}: Target land becomes an Island until end of turn.",
+      "toughness": "1",
+      "type": "Creature — Merfolk Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Brian Snõddy",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The floor of the sea is paved with the shattered remnants of vessels that navigated its surface unwelcomed.\"\n—Thassa, god of the sea",
+      "id": "5e266aabc1e6226b4275292cf16b18e981bb229a",
+      "imageName": "tidal wave",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "21",
+      "multiverseid": 438461,
+      "name": "Tidal Wave",
+      "number": "21",
+      "rarity": "Common",
+      "text": "Create a 5/5 blue Wall creature token with defender. Sacrifice it at the beginning of the next end step.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "John Severin Brassell",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "fdca7b71a105e086f70b1921da03f5ecdafff6fe",
+      "imageName": "tidebinder mage",
+      "layout": "normal",
+      "manaCost": "{U}{U}",
+      "mciNumber": "22",
+      "multiverseid": 438462,
+      "name": "Tidebinder Mage",
+      "number": "22",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "text": "When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.",
+      "toughness": "2",
+      "type": "Creature — Merfolk Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 1,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "c9a5a387f8e7b6138b9fd9d22e5eb8ff4f1532c1",
+      "imageName": "triton tactics",
+      "layout": "normal",
+      "manaCost": "{U}",
+      "mciNumber": "23",
+      "multiverseid": 438463,
+      "name": "Triton Tactics",
+      "number": "23",
+      "rarity": "Uncommon",
+      "text": "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Anyone who thinks merrows have more brains than brawn has never been run over by one.",
+      "id": "da11ea9bbc6b7a743ba1a3b3a4b89591dbcaee73",
+      "imageName": "wake thrasher",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "mciNumber": "24",
+      "multiverseid": 438464,
+      "name": "Wake Thrasher",
+      "number": "24",
+      "power": "1",
+      "rarity": "Rare",
+      "subtypes": [
+        "Merfolk",
+        "Soldier"
+      ],
+      "text": "Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 until end of turn.",
+      "toughness": "1",
+      "type": "Creature — Merfolk Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "She follows the old tributaries built when merrows still shaped the tides.",
+      "id": "60f3ebb92000d53fa5f84408f68e4ef922e9ceae",
+      "imageName": "cold-eyed selkie",
+      "layout": "normal",
+      "manaCost": "{1}{G/U}{G/U}",
+      "mciNumber": "25",
+      "multiverseid": 438465,
+      "name": "Cold-Eyed Selkie",
+      "number": "25",
+      "power": "1",
+      "rarity": "Rare",
+      "subtypes": [
+        "Merfolk",
+        "Rogue"
+      ],
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.",
+      "toughness": "1",
+      "type": "Creature — Merfolk Rogue",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Vincent Proce",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "flavor": "Once, water ran here. Now only dust and ash fall from the clifftops.",
+      "id": "7e5f5a2b73207e2867997278312d64abd3bbb5d8",
+      "imageName": "blighted cataract",
+      "layout": "normal",
+      "mciNumber": "26",
+      "multiverseid": 438466,
+      "name": "Blighted Cataract",
+      "number": "26",
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "859ba7f8e09921a0a960b5c93d0cafc862ca27e2",
+      "imageName": "lonely sandbar",
+      "layout": "normal",
+      "mciNumber": "27",
+      "multiverseid": 438467,
+      "name": "Lonely Sandbar",
+      "number": "27",
+      "rarity": "Common",
+      "text": "Lonely Sandbar enters the battlefield tapped.\n{T}: Add {U}.\nCycling {U} ({U}, Discard this card: Draw a card.)",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Rob Alexander",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "b3a41527969d46abb00ae2af610718ee1fbf97d5",
+      "imageName": "island1",
+      "layout": "normal",
+      "multiverseid": 438468,
+      "name": "Island",
+      "number": "28",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438469,
+        438470,
+        438471
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Steven Belledin",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "42f2ff9b8a6b0cc068fa57ccadb7cfd190574636",
+      "imageName": "island2",
+      "layout": "normal",
+      "multiverseid": 438469,
+      "name": "Island",
+      "number": "29",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438468,
+        438470,
+        438471
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Martina Pilcerova",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "dfdf0d7bb85288330e9373daa27311cfeb895ce1",
+      "imageName": "island3",
+      "layout": "normal",
+      "multiverseid": 438470,
+      "name": "Island",
+      "number": "30",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438468,
+        438469,
+        438471
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 0,
+      "colorIdentity": [
+        "U"
+      ],
+      "id": "12801f0b891559e347cc3e5968e5bf23be3833c5",
+      "imageName": "island4",
+      "layout": "normal",
+      "multiverseid": 438471,
+      "name": "Island",
+      "number": "31",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438468,
+        438469,
+        438470
+      ],
+      "watermark": "Blue"
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "There is always a rabble to be roused.",
+      "id": "fd87ed00596d21fd02989e6a22b835d34a1e1d59",
+      "imageName": "warren instigator",
+      "layout": "normal",
+      "manaCost": "{R}{R}",
+      "mciNumber": "32",
+      "multiverseid": 438472,
+      "name": "Warren Instigator",
+      "number": "32",
+      "power": "1",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Goblin",
+        "Berserker"
+      ],
+      "text": "Double strike\nWhenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+      "toughness": "1",
+      "type": "Creature — Goblin Berserker",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mark Tedin",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The goblins made an unruly pile with military precision.",
+      "id": "5a974818c2713c3caa4de5b583c4fb0362287b2a",
+      "imageName": "battle squadron",
+      "layout": "normal",
+      "manaCost": "{3}{R}{R}",
+      "mciNumber": "33",
+      "multiverseid": 438473,
+      "name": "Battle Squadron",
+      "number": "33",
+      "power": "*",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "Flying\nBattle Squadron's power and toughness are each equal to the number of creatures you control.",
+      "toughness": "*",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Igor Kieryluk",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "He has the biggest bashing stick, so it's a safe bet he's the leader.",
+      "id": "7a7505ac77b4f07351f2fa4c11e6fad01f1a3682",
+      "imageName": "boggart brute",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "mciNumber": "34",
+      "multiverseid": 438474,
+      "name": "Boggart Brute",
+      "number": "34",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+      "toughness": "2",
+      "type": "Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "It's not the size of the rock. It's how badly you want to lift it.",
+      "id": "95f9d35656e5027f99dae3ca7292c1814d7b581c",
+      "imageName": "brute strength",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "mciNumber": "35",
+      "multiverseid": 438475,
+      "name": "Brute Strength",
+      "number": "35",
+      "rarity": "Common",
+      "text": "Target creature gets +3/+1 and gains trample until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Dave Kendall",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Measure once, cut twice.",
+      "id": "946fda4b6fb8d4089c4056a69850b503e66b8923",
+      "imageName": "cleaver riot",
+      "layout": "normal",
+      "manaCost": "{4}{R}",
+      "mciNumber": "36",
+      "multiverseid": 438476,
+      "name": "Cleaver Riot",
+      "number": "36",
+      "rarity": "Uncommon",
+      "text": "Creatures you control gain double strike until end of turn. (They deal both first-strike and regular combat damage.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Flurk's crude goblin language didn't differentiate between \"I bring the flame\" and \"I am the flame.\"",
+      "id": "c56700078a7c0ff8bce5fc3ceb4d0b3eb71a13f4",
+      "imageName": "ember hauler",
+      "layout": "normal",
+      "manaCost": "{R}{R}",
+      "mciNumber": "37",
+      "multiverseid": 438477,
+      "name": "Ember Hauler",
+      "number": "37",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to any target.",
+      "toughness": "2",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "After the Foundry Street riot, Arrester Hulbein tried to ban bludgeons. Which, inevitably, resulted in another riot.",
+      "id": "9567d945358ab1aedf9306dae50ae4e2f420b4b3",
+      "imageName": "foundry street denizen",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "38",
+      "multiverseid": 438478,
+      "name": "Foundry Street Denizen",
+      "number": "38",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.",
+      "toughness": "1",
+      "type": "Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mark Behm",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "9551c41e7bb07248ea1b3c8939e27b5fd4f0aba7",
+      "imageName": "gempalm incinerator",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "mciNumber": "39",
+      "multiverseid": 438479,
+      "name": "Gempalm Incinerator",
+      "number": "39",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.",
+      "toughness": "1",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Cyril Van Der Haegen",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "flavor": "Only those gifted with the eye of Ugin, the spirit dragon, can see his fiery breath.",
+      "id": "524f3f2e17e78b8084fbdd52a6d87593d69c5fca",
+      "imageName": "ghostfire",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "mciNumber": "40",
+      "multiverseid": 438480,
+      "name": "Ghostfire",
+      "number": "40",
+      "rarity": "Common",
+      "text": "Ghostfire is colorless.\nGhostfire deals 3 damage to any target.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Sam Wood",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"It's time for the 'Smash, Smash' song!\"",
+      "id": "115dfa31e80efaa25aa7a88f84e24bb22845aa07",
+      "imageName": "goblin chieftain",
+      "layout": "normal",
+      "manaCost": "{1}{R}{R}",
+      "mciNumber": "41",
+      "multiverseid": 438481,
+      "name": "Goblin Chieftain",
+      "number": "41",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nOther Goblin creatures you control get +1/+1 and have haste.",
+      "toughness": "2",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "When you need to convey that special kind of message.",
+      "id": "62bcd50596df44c7b85965feb914e35617e45ecb",
+      "imageName": "goblin diplomats",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "mciNumber": "42",
+      "multiverseid": 438482,
+      "name": "Goblin Diplomats",
+      "number": "42",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "{T}: Each creature attacks this turn if able.",
+      "toughness": "1",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Greg Staples",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "e8c77d61daaa1700e979f021c2802c985d1bff78",
+      "imageName": "goblin glory chaser",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "43",
+      "multiverseid": 438483,
+      "name": "Goblin Glory Chaser",
+      "number": "43",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)",
+      "toughness": "1",
+      "type": "Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "2b126ca4db8b77a2c8d2e6d09cf6ce5bf5f5cf76",
+      "imageName": "goblin goon",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "mciNumber": "44",
+      "multiverseid": 438484,
+      "name": "Goblin Goon",
+      "number": "44",
+      "power": "6",
+      "rarity": "Rare",
+      "subtypes": [
+        "Goblin",
+        "Mutant"
+      ],
+      "text": "Goblin Goon can't attack unless you control more creatures than defending player.\nGoblin Goon can't block unless you control more creatures than attacking player.",
+      "toughness": "6",
+      "type": "Creature — Goblin Mutant",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Don't underestimate the aerodynamic qualities of the common goblin.",
+      "id": "7c31cbd733382677a9d04f1b4f89385cb5b2f895",
+      "imageName": "goblin grenade",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "45",
+      "multiverseid": 438485,
+      "name": "Goblin Grenade",
+      "number": "45",
+      "rarity": "Uncommon",
+      "text": "As an additional cost to cast this spell, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to any target.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "e2191a2e9cb21d7b41a4377fd9ecbe2f5f45e257",
+      "imageName": "goblin rabblemaster",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "mciNumber": "46",
+      "multiverseid": 438486,
+      "name": "Goblin Rabblemaster",
+      "number": "46",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "Other Goblin creatures you control attack each combat if able.\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.\nWhenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+      "toughness": "2",
+      "type": "Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Finding themselves in a new and unexplored world, they immediately set it on fire.",
+      "id": "3c911bc649035e39d3d0f206bf12e86d5c775985",
+      "imageName": "goblin razerunners",
+      "layout": "normal",
+      "manaCost": "{2}{R}{R}",
+      "mciNumber": "47",
+      "multiverseid": 438487,
+      "name": "Goblin Razerunners",
+      "number": "47",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.\nAt the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker.",
+      "toughness": "4",
+      "type": "Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Gabor Szikszai",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "7408a9ed19bc039ac6e6bf3bd7f3a17efac7f54e",
+      "imageName": "goblin ringleader",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "mciNumber": "48",
+      "multiverseid": 438488,
+      "name": "Goblin Ringleader",
+      "number": "48",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "Haste\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "toughness": "2",
+      "type": "Creature — Goblin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"The best way over the mountain is through.\"",
+      "id": "68f7e2ff0a22830b52e853ba10412fec91b5c387",
+      "imageName": "goblin tunneler",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "mciNumber": "49",
+      "multiverseid": 438489,
+      "name": "Goblin Tunneler",
+      "number": "49",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin",
+        "Rogue"
+      ],
+      "text": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+      "toughness": "1",
+      "type": "Creature — Goblin Rogue",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Chippy",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"A true warrior fights with whatever's handy.\"\n—Qerk of the Secret Warren",
+      "id": "cb925b1f4298cc25af3c7756fbe1a8c70d073115",
+      "imageName": "goblin wardriver",
+      "layout": "normal",
+      "manaCost": "{R}{R}",
+      "mciNumber": "50",
+      "multiverseid": 438490,
+      "name": "Goblin Wardriver",
+      "number": "50",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+      "toughness": "2",
+      "type": "Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Leave no scraps, lest you attract pests.\"\n—Mardu threat",
+      "id": "9ceaa37d452a89585fbdd9dc35376c6d5f38268e",
+      "imageName": "hordeling outburst",
+      "layout": "normal",
+      "manaCost": "{1}{R}{R}",
+      "mciNumber": "51",
+      "multiverseid": 438491,
+      "name": "Hordeling Outburst",
+      "number": "51",
+      "rarity": "Uncommon",
+      "text": "Create three 1/1 red Goblin creature tokens.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"He displays a perverse charisma fueled by avarice. Highly dangerous. Recommend civil sanctions.\"\n—Agmand Sarv, Azorius hussar",
+      "id": "cccb33df236b6ccb22e769bdb431c2fdd7f84857",
+      "imageName": "krenko, mob boss",
+      "layout": "normal",
+      "manaCost": "{2}{R}{R}",
+      "mciNumber": "52",
+      "multiverseid": 438492,
+      "name": "Krenko, Mob Boss",
+      "number": "52",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
+      "toughness": "3",
+      "type": "Legendary Creature — Goblin Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Goblins are eager to follow orders, especially when those orders involve stealing, hurting, annoying, eating, destroying, or swearing.",
+      "id": "94bda0e17bd57b9dcbdd6e3f5710873c5b6c82b4",
+      "imageName": "krenko's command",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "mciNumber": "53",
+      "multiverseid": 438493,
+      "name": "Krenko's Command",
+      "number": "53",
+      "rarity": "Common",
+      "text": "Create two 1/1 red Goblin creature tokens.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Christopher Moeller",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "d15b2d03f6cb3c517a1679debd877e098ff33b41",
+      "imageName": "relentless assault",
+      "layout": "normal",
+      "manaCost": "{2}{R}{R}",
+      "mciNumber": "54",
+      "multiverseid": 438494,
+      "name": "Relentless Assault",
+      "number": "54",
+      "rarity": "Rare",
+      "text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Omar Rayyan",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into something that smelled delicious.\"\n—A tale of Auntie Grub",
+      "id": "e713dcd56ef9cf60c152e6874ddc0a19a2a661c0",
+      "imageName": "tarfire",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "mciNumber": "55",
+      "multiverseid": 438495,
+      "name": "Tarfire",
+      "number": "55",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin"
+      ],
+      "text": "Tarfire deals 2 damage to any target.",
+      "type": "Tribal Instant — Goblin",
+      "types": [
+        "Tribal",
+        "Instant"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 1,
+      "flavor": "\"In my early experiments in phylactery, I found that fragile forms have their uses.\"\n—Rocati, Duke of Martyne",
+      "id": "10dc7dca22ffbe590ccd29c2b54eb55ffac8fd86",
+      "imageName": "brittle effigy",
+      "layout": "normal",
+      "manaCost": "{1}",
+      "mciNumber": "56",
+      "multiverseid": 438496,
+      "name": "Brittle Effigy",
+      "number": "56",
+      "rarity": "Rare",
+      "text": "{4}, {T}, Exile Brittle Effigy: Exile target creature.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 4,
+      "id": "029fbba566b17d5fe18a6f208b3a38848822a4df",
+      "imageName": "goblin charbelcher",
+      "layout": "normal",
+      "manaCost": "{4}",
+      "mciNumber": "57",
+      "multiverseid": 438497,
+      "name": "Goblin Charbelcher",
+      "number": "57",
+      "rarity": "Rare",
+      "text": "{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Jung Park",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "flavor": "The land is dying, but it will not go peacefully.",
+      "id": "3107f7950bdd7408f1e1a8ab6a2fe90745399d39",
+      "imageName": "blighted gorge",
+      "layout": "normal",
+      "mciNumber": "58",
+      "multiverseid": 438498,
+      "name": "Blighted Gorge",
+      "number": "58",
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{4}{R}, {T}, Sacrifice Blighted Gorge: It deals 2 damage to any target.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "6667ec1a2dfe4acb77ccc9b2d8caf56f2c9745d5",
+      "imageName": "forgotten cave",
+      "layout": "normal",
+      "mciNumber": "59",
+      "multiverseid": 438499,
+      "name": "Forgotten Cave",
+      "number": "59",
+      "rarity": "Common",
+      "text": "Forgotten Cave enters the battlefield tapped.\n{T}: Add {R}.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "c002bd4e0cc87a2e0b3623003a91ba2559b5fd43",
+      "imageName": "mountain1",
+      "layout": "normal",
+      "multiverseid": 438500,
+      "name": "Mountain",
+      "number": "60",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438501,
+        438502,
+        438503
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Steven Belledin",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "cb5a0236e5efe6ad803a2feecf6380767102c0f4",
+      "imageName": "mountain2",
+      "layout": "normal",
+      "multiverseid": 438501,
+      "name": "Mountain",
+      "number": "61",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438500,
+        438502,
+        438503
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Martina Pilcerova",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "a6207d6655f473705cbfe6c5c9838e2762642796",
+      "imageName": "mountain3",
+      "layout": "normal",
+      "multiverseid": 438502,
+      "name": "Mountain",
+      "number": "62",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438500,
+        438501,
+        438503
+      ],
+      "watermark": "Red"
+    },
+    {
+      "artist": "Raoul Vitale",
+      "cmc": 0,
+      "colorIdentity": [
+        "R"
+      ],
+      "id": "bf1164c2b874f512d4b5adb11567d37ae249be33",
+      "imageName": "mountain4",
+      "layout": "normal",
+      "multiverseid": 438503,
+      "name": "Mountain",
+      "number": "63",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        438500,
+        438501,
+        438502
+      ],
+      "watermark": "Red"
+    }
+  ]
+}
